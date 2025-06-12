@@ -1,0 +1,7 @@
+Cinematic aerial shot flying over Lake Chelan, moving eastward toward Chelan City, gradually descending to E Woodin Ave. Camera captures Kevin on the right as it approaches. Smooth, professional drone movement with natural lighting. Photorealistic 8K resolution, natural daylight illumination, professional documentary style.
+
+Style: Photorealistic 8K documentary style with cinematic color grading
+Camera Movement: Smooth aerial tracking shot with gradual descent
+Lighting: Natural daylight with balanced exposure
+Technical Specs: 8K resolution, high dynamic range, professional drone cinematography
+Negative Prompt: No text/overlays, no unrealistic colors, no artificial lighting, no motion blur, no lens flares, no background distractions, no weather effects, no post-processing filters 
