@@ -4,4 +4,4 @@ Style: Photorealistic 8K documentary style with cinematic color grading
 Camera Movement: Smooth aerial tracking shot with gradual descent from 800ft to street level
 Lighting: Natural daylight with enhanced atmospheric depth
 Technical Specs: 8K resolution, high dynamic range, professional drone cinematography
-Negative Prompt: No visible people, no text/overlays, no vehicles, no unrealistic colors, no rain/fog (clear day), no close-up buildings 
+Negative Prompt: No visible people, no text/overlays, no vehicles, no unrealistic colors, no rain/fog (clear day), no close-up buildings, no lens flares, no birds/wildlife, no boats/watercraft 
