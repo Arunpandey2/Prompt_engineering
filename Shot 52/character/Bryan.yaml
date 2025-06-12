@@ -1,0 +1,34 @@
+character:
+  name: Bryan Starbuck
+  age: 40s
+  height: "5'8\""
+  build: "Average, fit"
+  presence: "Charismatic and confident"
+
+  facial_features:
+    face_shape: "Oval with strong jawline"
+    facial_hair:
+      type: "Mustache and beard"
+      style: "Well-groomed, framing the jawline"
+    hair:
+      color: "Brown"
+      length: "Medium"
+      texture: "Slight wave"
+      style: "Neatly styled, parted slightly off-center"
+    eyes:
+      color: "Striking blue"
+      expression: "Warm and intense"
+    eyebrows: "Moderately thick, well-kept"
+    skin:
+      tone: "Fair"
+      complexion: "Healthy, natural glow"
+
+  voice:
+    tone: "Smooth and confident"
+    texture: "Warm with a subtle gravelly undertone"
+    cadence: "Measured and calm"
+
+  style:
+    attire: "Smart-casual (blazers, open-collar shirts, well-fitted jeans or slacks)"
+    color_palette: "Earthy and neutral tones"
+    accessories: "Leather strap watch, minimalistic style"
