@@ -4,4 +4,4 @@ Style: Photorealistic 8K documentary style with cinematic color grading
 Camera Movement: Static medium shot with slight depth of field
 Lighting: Natural daylight with balanced exposure
 Technical Specs: 8K resolution, high dynamic range, professional cinematography
-Negative Prompt: No text/overlays, no unrealistic colors, no artificial lighting, no motion blur, no lens flares, no background distractions, no weather effects, no post-processing filters 
+Negative Prompt: text, overlays, unrealistic colors, artificial lighting, motion blur, lens flares, background distractions, weather effects, post-processing filters 
