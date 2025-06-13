@@ -1,0 +1,82 @@
+id: f3b9ee06-777f-4ff0-80f3-7d339c72467f
+title: Follows Bryan And The Youtuber Underscoring Productivity Matches Dialogue
+overViewForAI: 'Path A, 1%. Camera: Front. Medium Shot. Victor (Left), Kevin (Right).'
+description: 'Path A, 1%. Camera: Front. Medium Shot. Victor (Left), Kevin (Right).'
+script: ''
+detail: ''
+shotType: Medium_Shot
+renderType: GENERATIVE_V2V_ON_PREM
+renderAllOthers: GENERATIVE_AI_ADV
+transitionIn: Cut
+transitionOut: Cut
+time: day
+published: false
+place: Park
+audioUrl: null
+audioDuration: null
+videoUrl: null
+aspectRatio: Aspect_9_16
+shotCast:
+  - id: f78897fb-ac58-4ab7-9ad1-0b411cfabbbd
+    cast:
+      id: c741ace6-4cf2-4b62-b842-5c7378b3086e
+      character:
+        id: 87f6e26c-96b5-446c-8d21-de7e6d317a88
+        name: Jason Bennett
+        gender: MALE
+      name: Bryan Starbucks
+      profession: Founder & CEO of DreamStage
+      role: PROTAGONIST
+      appearance: >-
+        Bryan Starbuck is a man in his 40s, 5'8'' tall, with a charismatic
+        presence. His face features a well-groomed mustache and beard, framing a
+        strong jawline. He has medium-length, neatly styled brown hair with a
+        slight wave, parted slightly off-center. His eyes are a striking blue,
+        and his skin tone is fair with a healthy, natural glow. His voice is
+        smooth, confident, warm, with a subtle gravelly undertone.
+      essence: ''
+      overview: Imagination is limitless when technology and creativity unite.
+      notes: "Mentor: A seasoned filmmaker who initially doubts Bryan's vision but becomes a key supporter.\r\nRival: A traditional filmmaker who challenges Bryan's approach, representing the old guard."
+    isPrimary: true
+    isSeated: false
+    isOverTheirShoulder: false
+    isVisible: true
+    parenthetical: Comprehensive
+    characterPlacement: Middle
+    rotation: '0'
+    animationType: TALK SERIOUS
+    animationStartDuration: 0
+    animationDuration: 5
+    audioStartDuration: 0
+    audioUrl: >-
+      production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/f3b9ee06-777f-4ff0-80f3-7d339c72467f/f78897fb-ac58-4ab7-9ad1-0b411cfabbbd/audio_f78897fb-ac58-4ab7-9ad1-0b411cfabbbd.mp3
+    audioDuration: 4.963265306122449
+    dialogue: >-
+      Hey, this product is <emphasis level="moderate">great</emphasis> for both
+      of you... <break time="0.3s" /> I'll chat with each of you separately,
+      okay?
+soundEffect: ''
+camera: ''
+lensType: ''
+compositionGuideline: ''
+cameraHeight: Eye_Level
+cameraMovement: Fixed
+cameraTargetTo: ONE_CHARACTER_CENTERED
+minDuration: 2
+weather: ''
+prompt: >-
+  Front camera, medium shot with Victor on the left and Kevin on the right in a
+  softly lit, minimal scene representing 1% progress on Path A, both standing
+  still with balanced framing, muted tones, and a calm, cinematic atmosphere
+  that emphasizes quiet tension and visual symmetry.
+negativePrompt: ''
+motion: ''
+setType: Exterior
+shotSet:
+  id: 07cd5ad3-cb34-43f2-bf9e-dad6d46d0ac8
+  set:
+    id: 3177312f-6615-4825-81b7-d54864b9825a
+    name: GOLDEN SET - Lake Chelan
+    description: Lake Chelan with Path A, B and C.
+transformationStrength: null
+videoDurationInMs: null

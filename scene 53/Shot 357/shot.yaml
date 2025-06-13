@@ -1,0 +1,88 @@
+id: b10d33fe-565c-4300-acee-569692373b3a
+title: Follows Bryan And The Youtuber Focusing On Story Goals Matches Dialogue
+overViewForAI: >-
+  Path A, 1%. Camera: Front. Medium Shot. Bryan (Center). Nobody else.  Standing
+  Still. Acting: Victor walks closer to the camera before he talks.
+description: >-
+  Path A, 1%. Camera: Front. Medium Shot. Bryan (Center). Nobody else.  Standing
+  Still. Acting: Victor walks closer to the camera before he talks.
+script: ''
+detail: ''
+shotType: Medium_Close_Up_Shot
+renderType: DEFAULT
+renderAllOthers: GENERATIVE_AI_ADV
+transitionIn: Cut
+transitionOut: Cut
+time: day
+published: false
+place: Park
+audioUrl: null
+audioDuration: null
+videoUrl: null
+aspectRatio: Aspect_9_16
+shotCast:
+  - id: 87cf83ff-5035-44aa-b891-fbc7814349e3
+    cast:
+      id: 60b76dec-56d6-4481-bb00-2f536d345e9f
+      character:
+        id: cc24c675-c21b-425e-9999-6e014d062ce4
+        name: Santiago
+        gender: MALE
+      name: Victor
+      profession: Doctor
+      role: SUPPORTING
+      appearance: >-
+        Victor, also known as Santiago, is a 35-year-old male character with a
+        supporting role in the movie. He stands at 5 feet 10 inches tall, with a
+        calm and composed demeanor. His appearance features short, neatly styled
+        brown hair. He wears a light beige t-shirt paired with matching
+        light-colored pants, creating a simple yet clean look. His skin tone is
+        fair, and his overall presence is understated yet dependable. The
+        background is a solid dark color, which highlights his neutral attire
+        and natural build.
+      essence: ''
+      overview: 'null'
+      notes: ''
+    isPrimary: true
+    isSeated: false
+    isOverTheirShoulder: false
+    isVisible: true
+    parenthetical: Skeptical
+    characterPlacement: Middle
+    rotation: '0'
+    animationType: TALK SERIOUS
+    animationStartDuration: 0
+    animationDuration: 5
+    audioStartDuration: 0
+    audioUrl: >-
+      production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/b10d33fe-565c-4300-acee-569692373b3a/87cf83ff-5035-44aa-b891-fbc7814349e3/audio_87cf83ff-5035-44aa-b891-fbc7814349e3.mp3
+    audioDuration: 7.549387755102041
+    dialogue: >-
+      Hi, I'm Victor. <emphasis level="moderate">I've</emphasis> worked for five
+      years at VFX studios... I often use tools like Maya and Houdini.
+soundEffect: ''
+camera: ''
+lensType: ''
+compositionGuideline: ''
+cameraHeight: Eye_Level
+cameraMovement: Fixed
+cameraTargetTo: ONE_CHARACTER_CENTERED
+minDuration: 2
+weather: ''
+prompt: >-
+  Front camera, medium shot with Bryan centered and standing still in a minimal,
+  softly lit scene representing 1% progress on Path A, no one else visible until
+  Victor slowly walks toward the camera before speaking, creating a calm,
+  cinematic atmosphere with muted colors, slight depth of field, and a cozy,
+  introspective tone.
+negativePrompt: ''
+motion: ''
+setType: Exterior
+shotSet:
+  id: 6924cc10-7869-4b9d-8e9f-6f97e664b868
+  set:
+    id: 3177312f-6615-4825-81b7-d54864b9825a
+    name: GOLDEN SET - Lake Chelan
+    description: Lake Chelan with Path A, B and C.
+transformationStrength: null
+videoDurationInMs: null

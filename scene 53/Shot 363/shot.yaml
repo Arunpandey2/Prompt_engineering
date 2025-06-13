@@ -1,0 +1,49 @@
+id: 86031fdd-f65a-4038-92d4-e5845a93ddee
+title: Land In Chelan Town
+overViewForAI: "Path A, 1%. Camera: Front. Medium Shot. Kevin (right).\r\nA family of three aliens (Dad 5'8\", Mom 5'4\", Child 3') appear 15 feet behind Kevin. They are walking closer and to the left side of the screen. Dad and Child aliens briefly turn their heads towards Kevin and smile at Kevin. Child's glance slightly out of sync (a 0.5 second sooner or later). Kevin's head and some of torso rotate to the right a little and he waves with his right hand, lifting a little but not higher than mid-chest. All of this is 2 seconds or less. Then the family has finished walking left off screen (closer to the camera) and Kevin has turned back to the camera to talk to Bryan"
+description: "Path A, 1%. Camera: Front. Medium Shot. Kevin (right).\r\nA family of three aliens (Dad 5'8\", Mom 5'4\", Child 3') appear 15 feet behind Kevin. They are walking closer and to the left side of the screen. Dad and Child aliens briefly turn their heads towards Kevin and smile at Kevin. Child's glance slightly out of sync (a 0.5 second sooner or later). Kevin's head and some of torso rotate to the right a little and he waves with his right hand, lifting a little but not higher than mid-chest. All of this is 2 seconds or less. Then the family has finished walking left off screen (closer to the camera) and Kevin has turned back to the camera to talk to Bryan"
+script: ''
+detail: ''
+shotType: Medium_Close_Up_Shot
+renderType: DEFAULT
+renderAllOthers: GENERATIVE_AI_ADV
+transitionIn: Cut
+transitionOut: Cut
+time: day
+published: false
+place: Park
+audioUrl: null
+audioDuration: null
+videoUrl: null
+aspectRatio: Aspect_9_16
+shotCast: []
+soundEffect: ''
+camera: ''
+lensType: ''
+compositionGuideline: ''
+cameraHeight: Eye_Level
+cameraMovement: Fixed
+cameraTargetTo: ONE_CHARACTER_CENTERED
+minDuration: 2
+weather: ''
+prompt: >-
+  Front camera, medium shot with Kevin on the right as a family of three aliens
+  (Dad 5'8", Mom 5'4", Child 3') appears 15 feet behind him walking closer to
+  the left side of the screen, Dad and Child briefly turn heads and smile at
+  Kevin—with the Child’s glance slightly out of sync by about 0.5 seconds—while
+  Kevin subtly rotates his head and upper torso right and waves with his right
+  hand lifted no higher than mid-chest within 2 seconds before the alien family
+  walks off left closer to the camera, and Kevin turns back to face the camera
+  to talk to Bryan, all in a softly lit, minimal scene conveying calm, natural
+  interaction with muted tones and subtle depth.
+negativePrompt: ''
+motion: ''
+setType: Exterior
+shotSet:
+  id: 4a453c76-0c4c-444b-9ac8-c1c1cadd6157
+  set:
+    id: 3177312f-6615-4825-81b7-d54864b9825a
+    name: GOLDEN SET - Lake Chelan
+    description: Lake Chelan with Path A, B and C.
+transformationStrength: null
+videoDurationInMs: null

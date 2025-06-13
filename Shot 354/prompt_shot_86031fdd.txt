@@ -1,7 +1,0 @@
-Medium shot on E Woodin Ave featuring Kevin on the right, with a family of three aliens (Dad 5'8", Mom 5'4", Child 3') appearing 15 feet behind Kevin. Camera captures the whimsical scene with natural urban background. Photorealistic 8K resolution, natural daylight illumination, professional documentary style.
-
-Style: Photorealistic 8K documentary style with cinematic color grading
-Camera Movement: Static medium shot with slight depth of field
-Lighting: Natural daylight with balanced exposure
-Technical Specs: 8K resolution, high dynamic range, professional cinematography
-Negative Prompt: text, overlays, unrealistic colors, artificial lighting, motion blur, lens flares, background distractions, weather effects, post-processing filters 

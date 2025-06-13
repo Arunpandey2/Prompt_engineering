@@ -1,7 +1,0 @@
-Medium shot of Bryan standing center frame on E Woodin Ave, with Victor walking closer to the camera before speaking. Camera captures the dynamic movement and interaction between characters. Clean, professional framing with natural urban background. Photorealistic 8K resolution, natural daylight illumination, professional documentary style.
-
-Style: Photorealistic 8K documentary style with cinematic color grading
-Camera Movement: Static medium shot with slight depth of field
-Lighting: Natural daylight with balanced exposure
-Technical Specs: 8K resolution, high dynamic range, professional cinematography
-Negative Prompt: text, overlays, unrealistic colors, artificial lighting, motion blur, lens flares, background distractions, weather effects, post-processing filters 

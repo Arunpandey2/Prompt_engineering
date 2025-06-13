@@ -1,0 +1,85 @@
+id: 5dd0e5ca-e291-4acb-a33f-f5050a8b0ad3
+title: Bryan Emphasizes The Top Down Editors Role Matches Dialogue
+overViewForAI: >-
+  Path A, 1%. Camera: Front. Medium Shot. Victor is on left. Kevin has stepped
+  forward and is now center.
+description: >-
+  Path A, 1%. Camera: Front. Medium Shot. Victor is on left. Kevin has stepped
+  forward and is now center.
+script: ''
+detail: ''
+shotType: Medium_Close_Up_Shot
+renderType: DEFAULT
+renderAllOthers: GENERATIVE_AI_LIMITED
+transitionIn: Cut
+transitionOut: Cut
+time: day
+published: false
+place: Park
+audioUrl: null
+audioDuration: null
+videoUrl: null
+aspectRatio: Aspect_9_16
+shotCast:
+  - id: 508696a5-bb9f-46a8-8cab-12bb3e1831df
+    cast:
+      id: 4948b635-6a62-4c52-8b7d-d359ddb2861a
+      character:
+        id: b31160b4-cbf3-4b02-9db4-88d0afffe856
+        name: Jamal Richardson
+        gender: MALE
+      name: Kevin
+      profession: ''
+      role: SUPPORTING
+      appearance: >-
+        A 35-year-old Black man with a lean, muscular frame and a broad
+        forehead. Standing at 5'9", he features short, neatly styled hair and a
+        well-groomed goatee. He exudes a sharp, professional presence, carrying
+        himself with composed confidence and understated strength.
+      essence: 'null'
+      overview: 'null'
+      notes: 'null'
+    isPrimary: true
+    isSeated: false
+    isOverTheirShoulder: false
+    isVisible: true
+    parenthetical: Enthusiastic
+    characterPlacement: Middle
+    rotation: '0'
+    animationType: TALK SERIOUS
+    animationStartDuration: 0
+    animationDuration: 5
+    audioStartDuration: 0
+    audioUrl: >-
+      production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/5dd0e5ca-e291-4acb-a33f-f5050a8b0ad3/508696a5-bb9f-46a8-8cab-12bb3e1831df/audio_508696a5-bb9f-46a8-8cab-12bb3e1831df.mp3
+    audioDuration: 8.071836734693878
+    dialogue: >-
+      Hi, I'm Kevin... Nice to meet you. I've gotten <emphasis
+      level="moderate">pretty good</emphasis> with Blender. <prosody
+      rate="slow">I can create some impressive things with it.</prosody> I know
+      it quite well.
+soundEffect: ''
+camera: ''
+lensType: ''
+compositionGuideline: ''
+cameraHeight: Eye_Level
+cameraMovement: Fixed
+cameraTargetTo: ONE_CHARACTER_CENTERED
+minDuration: 2
+weather: ''
+prompt: >-
+  Front camera, medium shot showing Victor on the left and Kevin now centered
+  after stepping forward, in a softly lit, minimal scene representing 1%
+  progress on Path A, with calm pacing, muted tones, and a subtle cinematic
+  depth to maintain a cozy and focused atmosphere.
+negativePrompt: ''
+motion: ''
+setType: Exterior
+shotSet:
+  id: 8fb6b3ad-605c-4c50-8fc6-85cbf9c026de
+  set:
+    id: 3177312f-6615-4825-81b7-d54864b9825a
+    name: GOLDEN SET - Lake Chelan
+    description: Lake Chelan with Path A, B and C.
+transformationStrength: null
+videoDurationInMs: null

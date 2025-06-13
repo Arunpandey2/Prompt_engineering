@@ -1,0 +1,87 @@
+id: 3d04b20d-6a12-4aa4-b93a-9a5c50d51784
+title: Bryan Explains Video Length Customization Matches Dialogue
+overViewForAI: 'Path A, 1%. Camera: Front. Bryan (Center). Nobody else. Standing Still.'
+description: 'Path A, 1%. Camera: Front. Bryan (Center). Nobody else. Standing Still.'
+script: ''
+detail: ''
+shotType: Medium_Shot
+renderType: DEFAULT
+renderAllOthers: BLENDER
+transitionIn: Cut
+transitionOut: Cut
+time: day
+published: false
+place: Park
+audioUrl: null
+audioDuration: null
+videoUrl: null
+aspectRatio: Aspect_9_16
+shotCast:
+  - id: ecb04fab-6aa3-4cb7-a939-3c125e6f540c
+    cast:
+      id: c741ace6-4cf2-4b62-b842-5c7378b3086e
+      character:
+        id: 87f6e26c-96b5-446c-8d21-de7e6d317a88
+        name: Jason Bennett
+        gender: MALE
+      name: Bryan Starbucks
+      profession: Founder & CEO of DreamStage
+      role: PROTAGONIST
+      appearance: >-
+        Bryan Starbuck is a man in his 40s, 5'8'' tall, with a charismatic
+        presence. His face features a well-groomed mustache and beard, framing a
+        strong jawline. He has medium-length, neatly styled brown hair with a
+        slight wave, parted slightly off-center. His eyes are a striking blue,
+        and his skin tone is fair with a healthy, natural glow. His voice is
+        smooth, confident, warm, with a subtle gravelly undertone.
+      essence: ''
+      overview: Imagination is limitless when technology and creativity unite.
+      notes: "Mentor: A seasoned filmmaker who initially doubts Bryan's vision but becomes a key supporter.\r\nRival: A traditional filmmaker who challenges Bryan's approach, representing the old guard."
+    isPrimary: true
+    isSeated: false
+    isOverTheirShoulder: false
+    isVisible: true
+    parenthetical: Confident
+    characterPlacement: Middle
+    rotation: '0'
+    animationType: TALK SERIOUS
+    animationStartDuration: 0
+    animationDuration: 5
+    audioStartDuration: 0
+    audioUrl: >-
+      production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/3d04b20d-6a12-4aa4-b93a-9a5c50d51784/ecb04fab-6aa3-4cb7-a939-3c125e6f540c/audio_ecb04fab-6aa3-4cb7-a939-3c125e6f540c.mp3
+    audioDuration: 13.79265306122449
+    dialogue: >-
+      Before we focus on <emphasis level="moderate">Blender</emphasis> experts
+      and VFX experts... <break time="0.3s" /> everyone else should know they
+      don't need to do this advanced part of the product. <break time="0.3s" />
+      I want to introduce you to two people. <prosody rate="slow">Can you two
+      introduce yourselves?</prosody>
+soundEffect: ''
+camera: ''
+lensType: ''
+compositionGuideline: ''
+cameraHeight: Eye_Level
+cameraMovement: Fixed
+cameraTargetTo: ONE_CHARACTER_CENTERED
+minDuration: 2
+weather: ''
+prompt: >-
+  Medium cinematic shot of a cozy downtown Chelan street, showing storefronts
+  with detailed signs, brick or wood facades, and clear window reflections. The
+  scene is lit by warm afternoon sunlight casting soft, angled shadows onto the
+  sidewalk. The camera is positioned at eye level, facing across or slightly
+  down the sidewalk toward the entrance of a small-town store. Trees, lampposts,
+  and street elements add realistic depth. No people, cars, or animals are
+  present — the space is clean, calm, and ready for character interaction.
+negativePrompt: ''
+motion: ''
+setType: Exterior
+shotSet:
+  id: f5a4dbe2-db82-49fb-b968-904895624a3e
+  set:
+    id: 3177312f-6615-4825-81b7-d54864b9825a
+    name: GOLDEN SET - Lake Chelan
+    description: Lake Chelan with Path A, B and C.
+transformationStrength: null
+videoDurationInMs: null

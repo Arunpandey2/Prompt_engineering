@@ -1,7 +1,0 @@
-Wide shot of downtown Chelan stores, introducing the first store setting. Camera captures the urban environment with natural lighting. Photorealistic 8K resolution, natural daylight illumination, professional documentary style.
-
-Style: Photorealistic 8K documentary style with cinematic color grading
-Camera Movement: Static wide shot
-Lighting: Natural daylight with balanced exposure
-Technical Specs: 8K resolution, high dynamic range, professional cinematography
-Negative Prompt: text, overlays, unrealistic colors, artificial lighting, motion blur, lens flares, background distractions, weather effects, post-processing filters 
