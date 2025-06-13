@@ -1,0 +1,96 @@
+id: 65ac96f3-3ac8-4f77-824b-c7af263711d1
+title: >-
+  Follows Bryan And The Youtuber Walking Near The Capitol Emphasizing The
+  Products Benefits Matches Dialogue
+overViewForAI: >-
+  Bryan, VICTOR, and Kevin stand on E Woodin Ave, forming a triangle: Bryan
+  left, Kevin right of center, VICTOR far right. Camera angle shows Kevin's face
+  and body, Bryan from the side, over VICTOR's shoulder, with VICTOR slightly
+  off-screen. Matches dialogue.
+description: >-
+  Bryan, VICTOR, and Kevin stand on E Woodin Ave, forming a triangle: Bryan
+  left, Kevin right of center, VICTOR far right. Camera angle shows Kevin's face
+  and body, Bryan from the side, over VICTOR's shoulder, with VICTOR slightly
+  off-screen. Matches dialogue.
+script: ''
+detail: ''
+shotType: Medium_Shot
+renderType: DEFAULT
+renderAllOthers: BLENDER
+transitionIn: Cut
+transitionOut: Cut
+time: day
+published: false
+place: Park
+audioUrl: null
+audioDuration: 34.351020408163265
+videoUrl: null
+aspectRatio: Aspect_9_16
+shotCast:
+  - id: d9a05351-8fa0-4a03-8bcc-1cbe8ca283f5
+    cast:
+      id: c741ace6-4cf2-4b62-b842-5c7378b3086e
+      character:
+        id: 87f6e26c-96b5-446c-8d21-de7e6d317a88
+        name: Jason Bennett
+        gender: MALE
+      name: Bryan Starbucks
+      profession: Founder & CEO of DreamStage
+      role: PROTAGONIST
+      appearance: >-
+        Bryan Starbuck is a man in his 40s, 5'8'' tall, with a charismatic
+        presence. His face features a well-groomed mustache and beard, framing a
+        strong jawline. He has medium-length, neatly styled brown hair with a
+        slight wave, parted slightly off-center. His eyes are a striking blue,
+        and his skin tone is fair with a healthy, natural glow. His voice is
+        smooth, confident, warm, with a subtle gravelly undertone.
+      essence: ''
+      overview: Imagination is limitless when technology and creativity unite.
+      notes: "Mentor: A seasoned filmmaker who initially doubts Bryan's vision but becomes a key supporter.\r\nRival: A traditional filmmaker who challenges Bryan's approach, representing the old guard."
+    isPrimary: true
+    isSeated: false
+    isOverTheirShoulder: false
+    isVisible: true
+    parenthetical: Enthusiastic
+    characterPlacement: Middle
+    rotation: '0'
+    animationType: WALKING MOTION
+    animationStartDuration: 0
+    animationDuration: 5
+    audioStartDuration: 0
+    audioUrl: >-
+      production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/65ac96f3-3ac8-4f77-824b-c7af263711d1/d9a05351-8fa0-4a03-8bcc-1cbe8ca283f5/audio_d9a05351-8fa0-4a03-8bcc-1cbe8ca283f5.mp3
+    audioDuration: 7.758367346938775
+    dialogue: >-
+      Let's land down there... on that street between the stores. <break
+      time="0.3s" /> We're now in the city of Chelan, <emphasis
+      level="moderate">right</emphasis> next to Lake Chelan.
+soundEffect: ''
+camera: ''
+lensType: ''
+compositionGuideline: ''
+cameraHeight: Eye_Level
+cameraMovement: Tracking
+cameraTargetTo: ONE_CHARACTER_CENTERED
+minDuration: 8
+weather: ''
+prompt: >-
+  Aerial cinematic shot approaching the small lakeside town of Chelan,
+  Washington, with the camera gently descending from above. The view captures
+  rolling green hills, rooftops of quaint downtown buildings, tree-lined
+  streets, and the shimmering edge of Lake Chelan. The camera glides downward in
+  a natural arc, slowly lowering toward street level, evoking arrival into the
+  peaceful town. Lighting is bright and realistic, set in soft afternoon
+  sunlight with clear shadows and light haze for depth. No people or animals are
+  visible.
+negativePrompt: ''
+motion: ''
+setType: Exterior
+shotSet:
+  id: f9659842-305e-49e6-aadb-c687ce0e0ef5
+  set:
+    id: 3177312f-6615-4825-81b7-d54864b9825a
+    name: GOLDEN SET - Lake Chelan
+    description: Lake Chelan with Path A, B and C.
+transformationStrength: null
+videoDurationInMs: null

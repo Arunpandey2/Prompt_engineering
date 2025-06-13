@@ -1,13 +1,11 @@
-id: b60f1a6d-9091-4972-91a5-e22f4fb07a1b
-title: Bryan Addresses Selective Acting Matches Dialogue
+id: 1c4dc051-4f33-4b50-b80b-e7c9f1440c02
+title: Bryan Gestures Highlighting Efficiency Matches Dialogue
 overViewForAI: >-
-  Path A, 1%. Camera: Front. Medium Shot. Bryan (Center). Victor turns around,
-  walks back (away from the camera), and then turns walks across behind Kevin
-  and off the screen. This is MoCap acting and shows depth.
+  Path A, 1%. Camera: Front. Medium Shot. Bryan (Center). Nobody else. Standing
+  Still. Background: The store on the side of the street.
 description: >-
-  Path A, 1%. Camera: Front. Medium Shot. Bryan (Center). Victor turns around,
-  walks back (away from the camera), and then turns walks across behind Kevin
-  and off the screen. This is MoCap acting and shows depth.
+  Path A, 1%. Camera: Front. Medium Shot. Bryan (Center). Nobody else. Standing
+  Still. Background: The store on the side of the street.
 script: ''
 detail: ''
 shotType: Medium_Close_Up_Shot
@@ -23,7 +21,7 @@ audioDuration: null
 videoUrl: null
 aspectRatio: Aspect_9_16
 shotCast:
-  - id: ad1a7017-47a1-4272-9f9f-55687005a814
+  - id: b99d964c-6797-4fe9-aa85-7523c1687fe3
     cast:
       id: c741ace6-4cf2-4b62-b842-5c7378b3086e
       character:
@@ -50,16 +48,23 @@ shotCast:
     parenthetical: ''
     characterPlacement: Far_Left
     rotation: '0'
-    animationType: null
+    animationType: ''
     animationStartDuration: 0
     animationDuration: 0
     audioStartDuration: 0
     audioUrl: >-
-      production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/b60f1a6d-9091-4972-91a5-e22f4fb07a1b/ad1a7017-47a1-4272-9f9f-55687005a814/audio_ad1a7017-47a1-4272-9f9f-55687005a814.mp3
-    audioDuration: 3.7877551020408164
+      production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/1c4dc051-4f33-4b50-b80b-e7c9f1440c02/b99d964c-6797-4fe9-aa85-7523c1687fe3/audio_b99d964c-6797-4fe9-aa85-7523c1687fe3.mp3
+    audioDuration: 34.115918367346936
     dialogue: >-
-      Kevin, did I hear that you <emphasis level="moderate">live</emphasis> here
-      in the town of Chelan?
+      Before we dive into this, I just wanted to mention... for most folks
+      making movies and videos, <emphasis level="moderate">you won't
+      need</emphasis> this section. <break time="0.3s" /> You'll often use the
+      sets included in the product for free. You can generate 2D sets with
+      MidJourney and similar tools, then import those as sets. <break
+      time="0.3s" /> If you ever want more powerful 3D sets, you can browse the
+      ones we include for free. Or, on rare occasions, you might pay a Blender
+      expert or VFX professional to create one for you... for a reasonable
+      price.
 soundEffect: ''
 camera: ''
 lensType: ''
@@ -70,16 +75,18 @@ cameraTargetTo: ONE_CHARACTER_CENTERED
 minDuration: 2
 weather: ''
 prompt: >-
-  Front camera, medium shot with Bryan centered and standing still in a softly
-  lit, minimal scene representing 1% progress on Path A, as Victor turns around
-  and walks away from the camera to show depth, then crosses behind Kevin and
-  exits the screen, with motion capture animation emphasizing spatial depth,
-  subtle character movement, and a calm, cinematic atmosphere with muted tones.
+  Medium cinematic shot of a cozy downtown Chelan street, showing storefronts
+  with detailed signs, brick or wood facades, and clear window reflections. The
+  scene is lit by warm afternoon sunlight casting soft, angled shadows onto the
+  sidewalk. The camera is positioned at eye level, facing across or slightly
+  down the sidewalk toward the entrance of a small-town store. Trees, lampposts,
+  and street elements add realistic depth. No people, cars, or animals are
+  present — the space is clean, calm, and ready for character interaction.
 negativePrompt: ''
 motion: ''
 setType: Exterior
 shotSet:
-  id: 32c3f971-42e9-49eb-a03b-2081d43e4ac2
+  id: 30e04881-c919-4745-83c7-0beb72eff6d9
   set:
     id: 3177312f-6615-4825-81b7-d54864b9825a
     name: GOLDEN SET - Lake Chelan

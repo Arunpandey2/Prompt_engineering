@@ -1,16 +1,14 @@
-id: 1c4dc051-4f33-4b50-b80b-e7c9f1440c02
-title: Bryan Gestures Highlighting Efficiency Matches Dialogue
-overViewForAI: >-
-  Path A, 1%. Camera: Front. Medium Shot. Bryan (Center). Nobody else. Standing
-  Still. Background: The store on the side of the street.
-description: >-
-  Path A, 1%. Camera: Front. Medium Shot. Bryan (Center). Nobody else. Standing
-  Still. Background: The store on the side of the street.
+id: 03bdaece-a1ab-4dd5-81c5-6ad72a3062b2
+title: >-
+  Camera Flies Over Lake Chelan Moving East Toward Chelan City Descending To E
+  Woodin Ave Matches Dialogue And Action
+overViewForAI: 'Path A, 1%. Camera: Front. Kevin (right)'
+description: 'Path A, 1%. Camera: Front. Kevin (right)'
 script: ''
 detail: ''
-shotType: Medium_Close_Up_Shot
-renderType: DEFAULT
-renderAllOthers: GENERATIVE_AI_LIMITED
+shotType: Medium_Shot
+renderType: GENERATIVE_V2V_ON_PREM
+renderAllOthers: BLENDER
 transitionIn: Cut
 transitionOut: Cut
 time: day
@@ -21,26 +19,24 @@ audioDuration: null
 videoUrl: null
 aspectRatio: Aspect_9_16
 shotCast:
-  - id: b99d964c-6797-4fe9-aa85-7523c1687fe3
+  - id: f9ce6b72-e6c5-4f6e-8c18-1d2ad354628e
     cast:
-      id: c741ace6-4cf2-4b62-b842-5c7378b3086e
+      id: 4948b635-6a62-4c52-8b7d-d359ddb2861a
       character:
-        id: 87f6e26c-96b5-446c-8d21-de7e6d317a88
-        name: Jason Bennett
+        id: b31160b4-cbf3-4b02-9db4-88d0afffe856
+        name: Jamal Richardson
         gender: MALE
-      name: Bryan Starbucks
-      profession: Founder & CEO of DreamStage
-      role: PROTAGONIST
+      name: Kevin
+      profession: ''
+      role: SUPPORTING
       appearance: >-
-        Bryan Starbuck is a man in his 40s, 5'8'' tall, with a charismatic
-        presence. His face features a well-groomed mustache and beard, framing a
-        strong jawline. He has medium-length, neatly styled brown hair with a
-        slight wave, parted slightly off-center. His eyes are a striking blue,
-        and his skin tone is fair with a healthy, natural glow. His voice is
-        smooth, confident, warm, with a subtle gravelly undertone.
-      essence: ''
-      overview: Imagination is limitless when technology and creativity unite.
-      notes: "Mentor: A seasoned filmmaker who initially doubts Bryan's vision but becomes a key supporter.\r\nRival: A traditional filmmaker who challenges Bryan's approach, representing the old guard."
+        A 35-year-old Black man with a lean, muscular frame and a broad
+        forehead. Standing at 5'9", he features short, neatly styled hair and a
+        well-groomed goatee. He exudes a sharp, professional presence, carrying
+        himself with composed confidence and understated strength.
+      essence: 'null'
+      overview: 'null'
+      notes: 'null'
     isPrimary: true
     isSeated: false
     isOverTheirShoulder: false
@@ -53,18 +49,15 @@ shotCast:
     animationDuration: 0
     audioStartDuration: 0
     audioUrl: >-
-      production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/1c4dc051-4f33-4b50-b80b-e7c9f1440c02/b99d964c-6797-4fe9-aa85-7523c1687fe3/audio_b99d964c-6797-4fe9-aa85-7523c1687fe3.mp3
-    audioDuration: 34.115918367346936
+      production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/03bdaece-a1ab-4dd5-81c5-6ad72a3062b2/f9ce6b72-e6c5-4f6e-8c18-1d2ad354628e/audio_f9ce6b72-e6c5-4f6e-8c18-1d2ad354628e.mp3
+    audioDuration: 15.725714285714286
     dialogue: >-
-      Before we dive into this, I just wanted to mention... for most folks
-      making movies and videos, <emphasis level="moderate">you won't
-      need</emphasis> this section. <break time="0.3s" /> You'll often use the
-      sets included in the product for free. You can generate 2D sets with
-      MidJourney and similar tools, then import those as sets. <break
-      time="0.3s" /> If you ever want more powerful 3D sets, you can browse the
-      ones we include for free. Or, on rare occasions, you might pay a Blender
-      expert or VFX professional to create one for you... for a reasonable
-      price.
+      I do live here. <emphasis level="moderate">I love Chelan.</emphasis> When
+      I'm in the coffee shop, I often meet the most interesting people... <break
+      time="0.3s" /> I find people come here from <emphasis level="strong">very,
+      very</emphasis> far away. I hear stories about their families and where
+      they come from. <prosody rate="slow">Chelan is a very interesting
+      town.</prosody>
 soundEffect: ''
 camera: ''
 lensType: ''
@@ -75,18 +68,15 @@ cameraTargetTo: ONE_CHARACTER_CENTERED
 minDuration: 2
 weather: ''
 prompt: >-
-  Medium cinematic shot of a cozy downtown Chelan street, showing storefronts
-  with detailed signs, brick or wood facades, and clear window reflections. The
-  scene is lit by warm afternoon sunlight casting soft, angled shadows onto the
-  sidewalk. The camera is positioned at eye level, facing across or slightly
-  down the sidewalk toward the entrance of a small-town store. Trees, lampposts,
-  and street elements add realistic depth. No people, cars, or animals are
-  present — the space is clean, calm, and ready for character interaction.
+  Front camera shot with Kevin positioned on the right in a softly lit, minimal
+  scene representing 1% progress on Path A, framed with open space to the left
+  for visual balance, maintaining a calm, cinematic tone with muted colors and
+  subtle depth for a cozy, focused atmosphere.
 negativePrompt: ''
 motion: ''
 setType: Exterior
 shotSet:
-  id: 30e04881-c919-4745-83c7-0beb72eff6d9
+  id: 0c76e4fc-2323-464d-97b9-12c21ee85353
   set:
     id: 3177312f-6615-4825-81b7-d54864b9825a
     name: GOLDEN SET - Lake Chelan
