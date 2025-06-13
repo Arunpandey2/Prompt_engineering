@@ -5,4 +5,4 @@ Audio Dialogue: "See down the street here... this is called Exterior-on-Rails. Y
 Style: Photorealistic, professional documentary style
 Camera: Dynamic tracking shot with smooth movement
 Lighting: Natural daylight, bright and clear
-Negative Prompts: No text overlays, no watermarks, no artificial effects 
+Negative Prompts: text overlays, watermarks, artificial effects 
