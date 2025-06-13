@@ -1,6 +1,6 @@
 id: 03bdaece-a1ab-4dd5-81c5-6ad72a3062b2
 title: >-
-  Camera Flies Over Lake Chelan Moving East Toward Chelan City Descending To E
+  Camera Flies Over Lake Shalan Moving East Toward Shalan City Descending To E
   Woodin Ave Matches Dialogue And Action
 overViewForAI: 'Path A, 1%. Camera: Front. Kevin (right)'
 description: 'Path A, 1%. Camera: Front. Kevin (right)'
@@ -52,11 +52,11 @@ shotCast:
       production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/03bdaece-a1ab-4dd5-81c5-6ad72a3062b2/f9ce6b72-e6c5-4f6e-8c18-1d2ad354628e/audio_f9ce6b72-e6c5-4f6e-8c18-1d2ad354628e.mp3
     audioDuration: 15.725714285714286
     dialogue: >-
-      I do live here. <emphasis level="moderate">I love Chelan.</emphasis> When
+      I do live here. <emphasis level="moderate">I love Shalan.</emphasis> When
       I'm in the coffee shop, I often meet the most interesting people... <break
       time="0.3s" /> I find people come here from <emphasis level="strong">very,
       very</emphasis> far away. I hear stories about their families and where
-      they come from. <prosody rate="slow">Chelan is a very interesting
+      they come from. <prosody rate="slow">Shalan is a very interesting
       town.</prosody>
 soundEffect: ''
 camera: ''
@@ -79,7 +79,7 @@ shotSet:
   id: 0c76e4fc-2323-464d-97b9-12c21ee85353
   set:
     id: 3177312f-6615-4825-81b7-d54864b9825a
-    name: GOLDEN SET - Lake Chelan
-    description: Lake Chelan with Path A, B and C.
+    name: GOLDEN SET - Lake Shalan
+    description: Lake Shalan with Path A, B and C.
 transformationStrength: null
 videoDurationInMs: null

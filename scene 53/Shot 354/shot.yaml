@@ -31,7 +31,7 @@ shotCast:
         name: Jason Bennett
         gender: MALE
       name: Bryan Starbucks
-      profession: Founder & CEO of DreamStage
+      profession: Founder & CEO of Act 3 
       role: PROTAGONIST
       appearance: >-
         Bryan Starbuck is a man in his 40s, 5'8'' tall, with a charismatic
@@ -59,7 +59,7 @@ shotCast:
     audioDuration: 3.7877551020408164
     dialogue: >-
       Kevin, did I hear that you <emphasis level="moderate">live</emphasis> here
-      in the town of Chelan?
+      in the town of Shalan?
 soundEffect: ''
 camera: ''
 lensType: ''
@@ -82,7 +82,7 @@ shotSet:
   id: 32c3f971-42e9-49eb-a03b-2081d43e4ac2
   set:
     id: 3177312f-6615-4825-81b7-d54864b9825a
-    name: GOLDEN SET - Lake Chelan
-    description: Lake Chelan with Path A, B and C.
+    name: GOLDEN SET - Lake Shalan
+    description: Lake Shalan with Path A, B and C.
 transformationStrength: null
 videoDurationInMs: null

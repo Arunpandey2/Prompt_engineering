@@ -35,7 +35,7 @@ shotCast:
         name: Jason Bennett
         gender: MALE
       name: Bryan Starbucks
-      profession: Founder & CEO of DreamStage
+      profession: Founder & CEO of Act 3 
       role: PROTAGONIST
       appearance: >-
         Bryan Starbuck is a man in his 40s, 5'8'' tall, with a charismatic
@@ -63,8 +63,8 @@ shotCast:
     audioDuration: 7.758367346938775
     dialogue: >-
       Let's land down there... on that street between the stores. <break
-      time="0.3s" /> We're now in the city of Chelan, <emphasis
-      level="moderate">right</emphasis> next to Lake Chelan.
+      time="0.3s" /> We're now in the city of Shalan, <emphasis
+      level="moderate">right</emphasis> next to Lake Shalan.
 soundEffect: ''
 camera: ''
 lensType: ''
@@ -75,10 +75,10 @@ cameraTargetTo: ONE_CHARACTER_CENTERED
 minDuration: 8
 weather: ''
 prompt: >-
-  Aerial cinematic shot approaching the small lakeside town of Chelan,
+  Aerial cinematic shot approaching the small lakeside town of Shalan,
   Washington, with the camera gently descending from above. The view captures
   rolling green hills, rooftops of quaint downtown buildings, tree-lined
-  streets, and the shimmering edge of Lake Chelan. The camera glides downward in
+  streets, and the shimmering edge of Lake Shalan. The camera glides downward in
   a natural arc, slowly lowering toward street level, evoking arrival into the
   peaceful town. Lighting is bright and realistic, set in soft afternoon
   sunlight with clear shadows and light haze for depth. No people or animals are
@@ -90,7 +90,7 @@ shotSet:
   id: f9659842-305e-49e6-aadb-c687ce0e0ef5
   set:
     id: 3177312f-6615-4825-81b7-d54864b9825a
-    name: GOLDEN SET - Lake Chelan
-    description: Lake Chelan with Path A, B and C.
+    name: GOLDEN SET - Lake Shalan
+    description: Lake Shalan with Path A, B and C.
 transformationStrength: null
 videoDurationInMs: null

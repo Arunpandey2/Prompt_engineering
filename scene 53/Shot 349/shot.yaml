@@ -25,7 +25,7 @@ shotCast:
         name: Jason Bennett
         gender: MALE
       name: Bryan Starbucks
-      profession: Founder & CEO of DreamStage
+      profession: Founder & CEO of Act 3 
       role: PROTAGONIST
       appearance: >-
         Bryan Starbuck is a man in his 40s, 5'8'' tall, with a charismatic
@@ -67,7 +67,7 @@ cameraTargetTo: ONE_CHARACTER_CENTERED
 minDuration: 2
 weather: ''
 prompt: >-
-  Medium cinematic shot of a cozy downtown Chelan street, showing storefronts
+  Medium cinematic shot of a cozy downtown Shalan street, showing storefronts
   with detailed signs, brick or wood facades, and clear window reflections. The
   scene is lit by warm afternoon sunlight casting soft, angled shadows onto the
   sidewalk. The camera is positioned at eye level, facing across or slightly
@@ -81,7 +81,7 @@ shotSet:
   id: f5a4dbe2-db82-49fb-b968-904895624a3e
   set:
     id: 3177312f-6615-4825-81b7-d54864b9825a
-    name: GOLDEN SET - Lake Chelan
-    description: Lake Chelan with Path A, B and C.
+    name: GOLDEN SET - Lake Shalan
+    description: Lake Shalan with Path A, B and C.
 transformationStrength: null
 videoDurationInMs: null

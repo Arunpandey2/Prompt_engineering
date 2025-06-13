@@ -1,16 +1,16 @@
 id: 737207ab-765d-4842-a5e7-e979389db74d
 title: >-
-  SHOT 362: AERIAL - CAMERA FLIES OVER LAKE CHELAN, MOVING EAST TOWARD CHELAN
+  SHOT 362: AERIAL - CAMERA FLIES OVER LAKE Shalan, MOVING EAST TOWARD Shalan
   CITY, DESCENDING TO E WOODIN AVE. MATCHES DIALOGUE AND ACTION.
 overViewForAI: >-
-  Path A, 70%. Aerial shot begins high above Lake Chelan, with the camera
+  Path A, 70%. Aerial shot begins high above Lake Shalan, with the camera
   gliding eastward across the lake's surface. As Bryan speaks, the camera
-  gradually descends toward the charming downtown of Chelan City, specifically
+  gradually descends toward the charming downtown of Shalan City, specifically
   approaching E Woodin Ave, revealing local buildings and tree-lined streets.
 description: >-
-  Path A, 70%. Aerial shot begins high above Lake Chelan, with the camera
+  Path A, 70%. Aerial shot begins high above Lake Shalan, with the camera
   gliding eastward across the lake's surface. As Bryan speaks, the camera
-  gradually descends toward the charming downtown of Chelan City, specifically
+  gradually descends toward the charming downtown of Shalan City, specifically
   approaching E Woodin Ave, revealing local buildings and tree-lined streets.
 script: ''
 detail: ''
@@ -35,7 +35,7 @@ shotCast:
         name: Jason Bennett
         gender: MALE
       name: Bryan Starbucks
-      profession: Founder & CEO of DreamStage
+      profession: Founder & CEO of Act 3 
       role: PROTAGONIST
       appearance: >-
         Tall, with a lean build, short brown hair, and piercing blue eyes that
@@ -63,7 +63,7 @@ shotCast:
       production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/737207ab-765d-4842-a5e7-e979389db74d/58630a04-a6c4-4be4-bba7-9ad9e61e336f/audio_58630a04-a6c4-4be4-bba7-9ad9e61e336f.mp3
     audioDuration: 5.093877551020408
     dialogue: >-
-      Let's travel to the state of Washington... There's a town called Chelan
+      Let's travel to the state of Washington... There's a town called Shalan
       there.
 soundEffect: ''
 camera: ''
@@ -75,7 +75,7 @@ cameraTargetTo: ENVIRONMENTAL_FOCUS
 minDuration: 2
 weather: ''
 prompt: >-
-  The camera captures the beauty of Lake Chelan, setting the stage for the
+  The camera captures the beauty of Lake Shalan, setting the stage for the
   journey into the town.
 negativePrompt: ''
 motion: ''
@@ -84,7 +84,7 @@ shotSet:
   id: 008eacaa-8968-48eb-b912-2de396dc7a5b
   set:
     id: 3177312f-6615-4825-81b7-d54864b9825a
-    name: GOLDEN SET - Lake Chelan
-    description: Lake Chelan with Path A, B and C.
+    name: GOLDEN SET - Lake Shalan
+    description: Lake Shalan with Path A, B and C.
 transformationStrength: 1
 videoDurationInMs: null

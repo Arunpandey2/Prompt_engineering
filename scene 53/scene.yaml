@@ -1,5 +1,5 @@
 - id: aa993363-313c-4f84-b17e-4081eea9ae3b
-  title: EXT. CHELAN - VFX
+  title: EXT. Shalan - VFX
   description: >-
     Bryan introduces the audience to Kevin, a Blender expert, and Victor, a VFX
     professional. The scene takes place on E Woodin Ave, with the three
@@ -161,7 +161,7 @@
       videoDurationInMs: null
     - id: 03bdaece-a1ab-4dd5-81c5-6ad72a3062b2
       title: >-
-        Camera Flies Over Lake Chelan Moving East Toward Chelan City Descending
+        Camera Flies Over Lake Shalan Moving East Toward Shalan City Descending
         To E Woodin Ave Matches Dialogue And Action
       description: 'Path A, 1%. Camera: Front. Kevin (right)'
       script: ''
@@ -177,7 +177,7 @@
       aspectRatio: Aspect_9_16
       videoDurationInMs: null
     - id: 86031fdd-f65a-4038-92d4-e5845a93ddee
-      title: Land In Chelan Town
+      title: Land In Shalan Town
       description: "Path A, 1%. Camera: Front. Medium Shot. Kevin (right).\r\nA family of three aliens (Dad 5'8\", Mom 5'4\", Child 3') appear 15 feet behind Kevin. They are walking closer and to the left side of the screen. Dad and Child aliens briefly turn their heads towards Kevin and smile at Kevin. Child's glance slightly out of sync (a 0.5 second sooner or later). Kevin's head and some of torso rotate to the right a little and he waves with his right hand, lifting a little but not higher than mid-chest. All of this is 2 seconds or less. Then the family has finished walking left off screen (closer to the camera) and Kevin has turned back to the camera to talk to Bryan"
       script: ''
       shotType: Medium_Close_Up_Shot
