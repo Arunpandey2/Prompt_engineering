@@ -1,95 +1,205 @@
-id: 1c4dc051-4f33-4b50-b80b-e7c9f1440c02
-title: Bryan Gestures Highlighting Efficiency Matches Dialogue
-overViewForAI: >-
-  Path A, 1%. Camera: Front. Medium Shot. Bryan (Center). Nobody else. Standing
-  Still. Background: The store on the side of the street.
-description: >-
-  Path A, 1%. Camera: Front. Medium Shot. Bryan (Center). Nobody else. Standing
-  Still. Background: The store on the side of the street.
-script: ''
-detail: ''
-shotType: Medium_Close_Up_Shot
-renderType: DEFAULT
-renderAllOthers: GENERATIVE_AI_LIMITED
-transitionIn: Cut
-transitionOut: Cut
-time: day
-published: false
-place: Park
-audioUrl: null
-audioDuration: null
-videoUrl: null
-aspectRatio: Aspect_9_16
-shotCast:
-  - id: b99d964c-6797-4fe9-aa85-7523c1687fe3
-    cast:
-      id: c741ace6-4cf2-4b62-b842-5c7378b3086e
-      character:
-        id: 87f6e26c-96b5-446c-8d21-de7e6d317a88
-        name: Jason Bennett
-        gender: MALE
-      name: Bryan Starbucks
-      profession: Founder & CEO of Act 3 
-      role: PROTAGONIST
-      appearance: >-
-        Bryan Starbuck is a man in his 40s, 5'8'' tall, with a charismatic
-        presence. His face features a well-groomed mustache and beard, framing a
-        strong jawline. He has medium-length, neatly styled brown hair with a
-        slight wave, parted slightly off-center. His eyes are a striking blue,
-        and his skin tone is fair with a healthy, natural glow. His voice is
-        smooth, confident, warm, with a subtle gravelly undertone.
-      essence: ''
-      overview: Imagination is limitless when technology and creativity unite.
-      notes: "Mentor: A seasoned filmmaker who initially doubts Bryan's vision but becomes a key supporter.\r\nRival: A traditional filmmaker who challenges Bryan's approach, representing the old guard."
-    isPrimary: true
-    isSeated: false
-    isOverTheirShoulder: false
-    isVisible: true
-    parenthetical: ''
-    characterPlacement: Far_Left
-    rotation: '0'
-    animationType: ''
-    animationStartDuration: 0
-    animationDuration: 0
-    audioStartDuration: 0
-    audioUrl: >-
+TITLE: Bryan Gestures Highlighting Efficiency Matches Dialogue
+PUBLISHED: false
+PLACE: Park
+ASPECT_RATIO: Aspect_9_16
+TRANSITION_IN: Cut
+TRANSITION_OUT: Cut
+TIME: day
+MIN_DURATION: 2
+SET_TYPE: Exterior
+ADDITIONAL_DETAILS: {}
+SHOT_CAST:
+  - IS_PRIMARY: true
+    IS_SEATED: false
+    IS_VISIBLE: true
+    IS_OVER_THEIR_SHOULDER: false
+    CHARACTER_PLACEMENT: Far_Left
+    ROTATION: '0'
+    AUDIO_START_DURATION: 0
+    AUDIO_URL: >-
       production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/1c4dc051-4f33-4b50-b80b-e7c9f1440c02/b99d964c-6797-4fe9-aa85-7523c1687fe3/audio_b99d964c-6797-4fe9-aa85-7523c1687fe3.mp3
-    audioDuration: 34.115918367346936
-    dialogue: >-
-      Before we dive into this, I just wanted to mention... for most folks
-      making movies and videos, <emphasis level="moderate">you won't
-      need</emphasis> this section. <break time="0.3s" /> You'll often use the
-      sets included in the product for free. You can generate 2D sets with
-      MidJourney and similar tools, then import those as sets. <break
-      time="0.3s" /> If you ever want more powerful 3D sets, you can browse the
-      ones we include for free. Or, on rare occasions, you might pay a Blender
-      expert or VFX professional to create one for you... for a reasonable
-      price.
-soundEffect: ''
-camera: ''
-lensType: ''
-compositionGuideline: ''
-cameraHeight: Eye_Level
-cameraMovement: Fixed
-cameraTargetTo: ONE_CHARACTER_CENTERED
-minDuration: 2
-weather: ''
-prompt: >-
-  Medium cinematic shot of a cozy downtown Shalan street, showing storefronts
-  with detailed signs, brick or wood facades, and clear window reflections. The
-  scene is lit by warm afternoon sunlight casting soft, angled shadows onto the
-  sidewalk. The camera is positioned at eye level, facing across or slightly
-  down the sidewalk toward the entrance of a small-town store. Trees, lampposts,
-  and street elements add realistic depth. No people, cars, or animals are
-  present — the space is clean, calm, and ready for character interaction.
-negativePrompt: ''
-motion: ''
-setType: Exterior
-shotSet:
-  id: 30e04881-c919-4745-83c7-0beb72eff6d9
-  set:
-    id: 3177312f-6615-4825-81b7-d54864b9825a
-    name: GOLDEN SET - Lake Shalan
-    description: Lake Shalan with Path A, B and C.
-transformationStrength: null
-videoDurationInMs: null
+    AUDIO_DURATION: 34.115918367346936
+    DIALOGUE: >-
+      Before we dive into this, I just wanted to mention for most folks making
+      movies and videos, you won't need this section. You'll often use the sets
+      included in the product for free. You can generate 2D sets with MidJourney
+      and similar tools, then import those as sets. If you ever want more
+      powerful 3D sets, you can browse the ones we include for free. Or, on rare
+      occasions, you might pay a Blender expert or VFX professional to create
+      one for you for a reasonable price.
+    ANIMATION_START_DURATION: 0
+    ANIMATION_DURATION: 0
+    CAST:
+      NAME: Bryan Starbucks
+      AGE: 40
+      OVERVIEW: Imagination is limitless when technology and creativity unite.
+      PROFESSION: Founder & CEO of DreamStage
+      ROLE: PROTAGONIST
+      APPEARANCE: >-
+        a man in his 40s, 5'8'' tall, with a charismatic presence. His face
+        features a well-groomed mustache and beard, framing a strong jawline. He
+        has medium-length, neatly styled brown hair with a slight wave, parted
+        slightly off-center. His eyes are a striking blue, and his skin tone is
+        fair with a healthy, natural glow. His voice is smooth, confident, warm,
+        with a subtle gravelly undertone.
+      VOICE_TONE: >-
+        Smooth, confident, and warm with a subtle gravelly undertone. Reflects
+        experience, charisma, and calm authority.
+      NOTES: "Mentor: A seasoned filmmaker who initially doubts Bryan's vision but becomes a key supporter.\r\nRival: A traditional filmmaker who challenges Bryan's approach, representing the old guard."
+      CHARACTER:
+        NAME: Jason Bennett
+        GENDER: MALE
+NEEDED_LOCATION:
+  TITLE: E Woodin Ave with Cafes
+  DESCRIPTION: >-
+    The street is lined with quaint shops and cafes, vibrant with the colors of
+    the surroundings.
+  TYPE: TwoDSet
+CINEMATOGRAPHY:
+  RENDER_TYPE: DEFAULT
+  RENDER_ALL_OTHERS: GENERATIVE_AI_LIMITED
+  SHOT_TYPE: Medium_Close_Up_Shot
+  CAMERA_ANGLE: Eye_Level
+  CAMERA_TARGET_TO: ONE_CHARACTER_CENTERED
+  CAMERA_MOVEMENT: Fixed
+COMBINED_MEGA_PROMPT: >-
+  In a sunlit park, Bryan Starbucks, a charismatic filmmaker in his mid-40s,
+  stands confidently, exuding warmth and approachability. The scene captures him
+  in a medium close-up shot, positioned on the far left of the frame, with the
+  camera at eye level to create an intimate connection with the audience. The
+  camera remains static, allowing the focus to rest on Bryan's expressive
+  gestures and engaging demeanor as he passionately explains the efficiency of
+  using pre-made sets in filmmaking.
+
+
+  Bryan's appearance is both professional and approachable, dressed in a
+  smart-casual outfit that includes a tailored navy blue blazer over a crisp
+  white shirt, paired with dark denim jeans. His polished brown leather loafers
+  and simple silver watch add a touch of elegance, while his stylish glasses
+  frame his striking blue eyes. His medium-length brown hair, neatly styled with
+  a slight wave, complements his well-groomed mustache and beard, which frame
+  his strong jawline. His fair skin glows with health, and his voice carries a
+  smooth, confident warmth with a subtle gravelly undertone.
+
+
+  The park setting is alive with the vibrant colors of quaint shops and cafes in
+  the background, enhancing the scene's realistic and character-driven
+  storytelling style. Natural daylight bathes the scene, casting soft shadows on
+  Bryan's face and creating a warm, inviting atmosphere. The ambient sounds of
+  the park, including distant chatter and occasional bird calls, add to the
+  scene's authenticity, while the gentle rustling of leaves and subtle sound of
+  Bryan's clothing as he gestures provide a rich auditory backdrop.
+
+
+  As Bryan speaks, his hands move animatedly, emphasizing his points about the
+  practicality of using pre-made sets. His dialogue flows naturally, offering
+  insights into the filmmaking process with an informative and encouraging tone,
+  akin to a mentor sharing valuable knowledge. The scene's color palette is
+  natural, with a slight warmth that complements the outdoor setting, enhancing
+  the overall mood of mentorship and inspiration.
+
+
+  No subtitles.
+MEGA_PROMPT_PIECES:
+  SCENE_OVERVIEW:
+    OVERALL_DESCRIPTION: >-
+      Bryan Starbucks, a charismatic filmmaker, gestures animatedly while
+      explaining the efficiency of using pre-made sets in filmmaking. The scene
+      takes place in a park during the day, with a focus on Bryan's confident
+      and warm demeanor.
+    TONE: Informative and encouraging, with a touch of mentorship.
+    STYLE: Realistic with a focus on character-driven storytelling.
+  VISUAL_STYLE: REAL_LIFE
+  CHARACTERS:
+    - NAME: Bryan Starbucks
+      ROLE: PROTAGONIST
+      GENDER: MALE
+      AGE_GROUP: ADULT
+      AGE: 25
+      CHARACTER_DIALOGUE: >-
+        Before we dive into this, I just wanted to mention for most folks making
+        movies and videos, you won't need this section. You'll often use the
+        sets included in the product for free. You can generate 2D sets with
+        MidJourney and similar tools, then import those as sets. If you ever
+        want more powerful 3D sets, you can browse the ones we include for free.
+        Or, on rare occasions, you might pay a Blender expert or VFX
+        professional to create one for you for a reasonable price.
+      CHARACTER_ROTATION: 0
+      ACTION: >-
+        Bryan gestures with his hands to emphasize his points, highlighting the
+        efficiency of using pre-made sets.
+      PHYSICAL_DESCRIPTION: >-
+        a man in his 40s, 5'8'' tall, with a charismatic presence. His face
+        features a well-groomed mustache and beard, framing a strong jawline. He
+        has medium-length, neatly styled brown hair with a slight wave, parted
+        slightly off-center. His eyes are a striking blue, and his skin tone is
+        fair with a healthy, natural glow. His voice is smooth, confident, warm,
+        with a subtle gravelly undertone.
+      ORIENTATION:
+        SCREEN_POSITION: Far_Left
+        BODY: Facing the camera directly, 0 degrees.
+        HEAD: Looking directly at the camera, 0 degrees.
+        GAZE: Focused on the camera, 0 degrees.
+      CLOTHING:
+        DESCRIPTION: >-
+          Bryan is dressed in a smart-casual outfit that reflects his
+          professional yet approachable demeanor. He wears a tailored navy blue
+          blazer over a crisp white shirt, paired with dark denim jeans. His
+          shoes are polished brown leather loafers, and he accessorizes with a
+          simple silver watch and a pair of stylish glasses.
+        UPPER_BODY:
+          - Navy blue blazer
+          - Crisp white shirt
+        LOWER_BODY:
+          - Dark denim jeans
+        FOOTWEAR:
+          - Polished brown leather loafers
+      FACE:
+        SKIN: Fair with a healthy, natural glow.
+        HAIR: >-
+          Medium-length, neatly styled brown hair with a slight wave, parted
+          slightly off-center.
+  DIALOGUE:
+    - BRYAN_STARBUCKS: >-
+        Before we dive into this, I just wanted to mention for most folks making
+        movies and videos, you won't need this section. You'll often use the
+        sets included in the product for free. You can generate 2D sets with
+        MidJourney and similar tools, then import those as sets. If you ever
+        want more powerful 3D sets, you can browse the ones we include for free.
+        Or, on rare occasions, you might pay a Blender expert or VFX
+        professional to create one for you for a reasonable price.
+  ACTION:
+    DESCRIPTION: >-
+      Bryan gestures animatedly while explaining the efficiency of using
+      pre-made sets in filmmaking.
+    MOVEMENT: Static, with hand gestures to emphasize points.
+  SET_SETTINGS:
+    LOCATION: E Woodin Ave with Cafes
+    BUILDING_TYPE: TwoDSet
+    SURROUNDINGS:
+      - Quaint shops
+      - Cafes
+      - Vibrant colors of the surroundings
+    LIGHTING: Natural daylight
+  BACKGROUND_NOISE: Ambient sounds of a park, with distant chatter and occasional bird calls.
+  CAMERA_WORK:
+    INITIAL_PLACEMENT:
+      SHOT_TYPE: Medium_Close_Up_Shot
+      ANGLE: Eye_Level
+      FRAMING: Bryan is centered in the frame, positioned on the far left.
+    MOVEMENT:
+      TYPE: Static
+      PACE: N/A
+      EFFECT: >-
+        Focuses on Bryan's expressions and gestures, creating an intimate
+        connection with the audience.
+  CAMERA_TRANSITION: Cut
+  LIGHTING_ATMOSPHERE: >-
+    The scene is lit with natural daylight, providing a warm and inviting
+    atmosphere. Soft shadows are cast on Bryan's face, enhancing his features.
+    The color grading is natural, with a slight warmth to complement the outdoor
+    setting.
+  SOUND:
+    AMBIENT: Gentle rustling of leaves and distant park sounds.
+    FOLEY: Subtle sound of Bryan's clothing as he gestures.
+    WILDLIFE: Occasional bird chirping in the background.

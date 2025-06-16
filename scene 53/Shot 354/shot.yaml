@@ -1,88 +1,181 @@
-id: b60f1a6d-9091-4972-91a5-e22f4fb07a1b
-title: Bryan Addresses Selective Acting Matches Dialogue
-overViewForAI: >-
-  Path A, 1%. Camera: Front. Medium Shot. Bryan (Center). Victor turns around,
-  walks back (away from the camera), and then turns walks across behind Kevin
-  and off the screen. This is MoCap acting and shows depth.
-description: >-
-  Path A, 1%. Camera: Front. Medium Shot. Bryan (Center). Victor turns around,
-  walks back (away from the camera), and then turns walks across behind Kevin
-  and off the screen. This is MoCap acting and shows depth.
-script: ''
-detail: ''
-shotType: Medium_Close_Up_Shot
-renderType: DEFAULT
-renderAllOthers: GENERATIVE_AI_LIMITED
-transitionIn: Cut
-transitionOut: Cut
-time: day
-published: false
-place: Park
-audioUrl: null
-audioDuration: null
-videoUrl: null
-aspectRatio: Aspect_9_16
-shotCast:
-  - id: ad1a7017-47a1-4272-9f9f-55687005a814
-    cast:
-      id: c741ace6-4cf2-4b62-b842-5c7378b3086e
-      character:
-        id: 87f6e26c-96b5-446c-8d21-de7e6d317a88
-        name: Jason Bennett
-        gender: MALE
-      name: Bryan Starbucks
-      profession: Founder & CEO of Act 3 
-      role: PROTAGONIST
-      appearance: >-
-        Bryan Starbuck is a man in his 40s, 5'8'' tall, with a charismatic
-        presence. His face features a well-groomed mustache and beard, framing a
-        strong jawline. He has medium-length, neatly styled brown hair with a
-        slight wave, parted slightly off-center. His eyes are a striking blue,
-        and his skin tone is fair with a healthy, natural glow. His voice is
-        smooth, confident, warm, with a subtle gravelly undertone.
-      essence: ''
-      overview: Imagination is limitless when technology and creativity unite.
-      notes: "Mentor: A seasoned filmmaker who initially doubts Bryan's vision but becomes a key supporter.\r\nRival: A traditional filmmaker who challenges Bryan's approach, representing the old guard."
-    isPrimary: true
-    isSeated: false
-    isOverTheirShoulder: false
-    isVisible: true
-    parenthetical: ''
-    characterPlacement: Far_Left
-    rotation: '0'
-    animationType: null
-    animationStartDuration: 0
-    animationDuration: 0
-    audioStartDuration: 0
-    audioUrl: >-
+TITLE: Bryan Addresses Selective Acting Matches Dialogue
+PUBLISHED: false
+PLACE: Park
+ASPECT_RATIO: Aspect_9_16
+TRANSITION_IN: Cut
+TRANSITION_OUT: Cut
+TIME: day
+MIN_DURATION: 2
+SET_TYPE: Exterior
+ADDITIONAL_DETAILS: {}
+SHOT_CAST:
+  - IS_PRIMARY: true
+    IS_SEATED: false
+    IS_VISIBLE: true
+    IS_OVER_THEIR_SHOULDER: false
+    CHARACTER_PLACEMENT: Far_Left
+    ROTATION: '0'
+    AUDIO_START_DURATION: 0
+    AUDIO_URL: >-
       production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/b60f1a6d-9091-4972-91a5-e22f4fb07a1b/ad1a7017-47a1-4272-9f9f-55687005a814/audio_ad1a7017-47a1-4272-9f9f-55687005a814.mp3
-    audioDuration: 3.7877551020408164
-    dialogue: >-
-      Kevin, did I hear that you <emphasis level="moderate">live</emphasis> here
-      in the town of Shalan?
-soundEffect: ''
-camera: ''
-lensType: ''
-compositionGuideline: ''
-cameraHeight: Eye_Level
-cameraMovement: Fixed
-cameraTargetTo: ONE_CHARACTER_CENTERED
-minDuration: 2
-weather: ''
-prompt: >-
-  Front camera, medium shot with Bryan centered and standing still in a softly
-  lit, minimal scene representing 1% progress on Path A, as Victor turns around
-  and walks away from the camera to show depth, then crosses behind Kevin and
-  exits the screen, with motion capture animation emphasizing spatial depth,
-  subtle character movement, and a calm, cinematic atmosphere with muted tones.
-negativePrompt: ''
-motion: ''
-setType: Exterior
-shotSet:
-  id: 32c3f971-42e9-49eb-a03b-2081d43e4ac2
-  set:
-    id: 3177312f-6615-4825-81b7-d54864b9825a
-    name: GOLDEN SET - Lake Shalan
-    description: Lake Shalan with Path A, B and C.
-transformationStrength: null
-videoDurationInMs: null
+    AUDIO_DURATION: 3.7877551020408164
+    DIALOGUE: Kevin, did I hear that you live here in the town of Chelan?
+    ANIMATION_START_DURATION: 0
+    ANIMATION_DURATION: 0
+    CAST:
+      NAME: Bryan Starbucks
+      AGE: 40
+      OVERVIEW: Imagination is limitless when technology and creativity unite.
+      PROFESSION: Founder & CEO of DreamStage
+      ROLE: PROTAGONIST
+      APPEARANCE: >-
+        a man in his 40s, 5'8'' tall, with a charismatic presence. His face
+        features a well-groomed mustache and beard, framing a strong jawline. He
+        has medium-length, neatly styled brown hair with a slight wave, parted
+        slightly off-center. His eyes are a striking blue, and his skin tone is
+        fair with a healthy, natural glow. His voice is smooth, confident, warm,
+        with a subtle gravelly undertone.
+      VOICE_TONE: >-
+        Smooth, confident, and warm with a subtle gravelly undertone. Reflects
+        experience, charisma, and calm authority.
+      NOTES: "Mentor: A seasoned filmmaker who initially doubts Bryan's vision but becomes a key supporter.\r\nRival: A traditional filmmaker who challenges Bryan's approach, representing the old guard."
+      CHARACTER:
+        NAME: Jason Bennett
+        GENDER: MALE
+NEEDED_LOCATION:
+  TITLE: E Woodin Ave with Benches
+  DESCRIPTION: >-
+    The street is lined with quaint shops and cafes, vibrant with the colors of
+    the surroundings.
+  TYPE: TwoDSet
+CINEMATOGRAPHY:
+  RENDER_TYPE: DEFAULT
+  RENDER_ALL_OTHERS: GENERATIVE_AI_LIMITED
+  SHOT_TYPE: Medium_Close_Up_Shot
+  CAMERA_ANGLE: Eye_Level
+  CAMERA_TARGET_TO: ONE_CHARACTER_CENTERED
+  CAMERA_MOVEMENT: Fixed
+COMBINED_MEGA_PROMPT: >-
+  In a vibrant park setting, Bryan Starbucks, the charismatic protagonist,
+  stands confidently addressing someone named Kevin. The scene unfolds with a
+  realistic narrative style, focusing on the engaging interaction between Bryan
+  and Kevin. Bryan, a man in his 40s with a striking presence, is dressed in a
+  smart-casual outfit that reflects his professional yet approachable demeanor.
+  He wears a tailored navy blazer over a crisp white shirt, paired with dark
+  denim jeans and polished brown leather loafers. His medium-length, neatly
+  styled brown hair with a slight wave is parted slightly off-center,
+  complementing his well-groomed mustache and beard that frame a strong jawline.
+  His striking blue eyes and fair skin with a healthy, natural glow add to his
+  charismatic aura.
+
+
+  The camera captures Bryan in a medium close-up shot at eye level, with a
+  static focus that emphasizes his expression and dialogue delivery. Positioned
+  on the far left of the frame, Bryan's confident demeanor is highlighted as he
+  stands still, engaging in conversation with Kevin. The natural daylight casts
+  soft shadows, enhancing the vibrant colors of the park and highlighting
+  Bryan's features. The warm lighting creates an inviting atmosphere, with
+  subtle color grading maintaining a realistic tone.
+
+
+  The background setting is a lively park on E Woodin Ave, surrounded by quaint
+  shops and cafes, with vibrant colors adding to the scene's charm. The gentle
+  rustle of leaves and distant chatter of park-goers provide a soothing ambient
+  sound, accompanied by occasional bird calls. The subtle sound of Bryan's
+  clothing as he gestures adds a layer of realism to the scene.
+
+
+  As Bryan speaks, his smooth, confident voice with a subtle gravelly undertone
+  resonates, asking Kevin if he lives in the town of Chelan. His body is
+  oriented forward, with his gaze focused directly on Kevin, conveying a sense
+  of engagement and curiosity. The scene captures the essence of a confident and
+  engaging interaction, set against the picturesque backdrop of a vibrant park.
+
+
+  No subtitles.
+MEGA_PROMPT_PIECES:
+  SCENE_OVERVIEW:
+    OVERALL_DESCRIPTION: >-
+      Bryan Starbucks, the protagonist, is in a park addressing someone named
+      Kevin. The scene captures Bryan's charismatic presence as he engages in a
+      conversation, set against the vibrant backdrop of a park.
+    TONE: Confident and engaging, with a hint of curiosity.
+    STYLE: >-
+      The scene follows a realistic narrative style, focusing on character
+      interaction and dialogue.
+  VISUAL_STYLE: REAL_LIFE
+  CHARACTERS:
+    - NAME: Bryan Starbucks
+      ROLE: PROTAGONIST
+      GENDER: MALE
+      AGE_GROUP: ADULT
+      AGE: 25
+      CHARACTER_DIALOGUE: Kevin, did I hear that you live here in the town of Chelan?
+      CHARACTER_ROTATION: 0
+      ACTION: Bryan stands confidently, engaging in conversation with Kevin.
+      PHYSICAL_DESCRIPTION: >-
+        a man in his 40s, 5'8'' tall, with a charismatic presence. His face
+        features a well-groomed mustache and beard, framing a strong jawline. He
+        has medium-length, neatly styled brown hair with a slight wave, parted
+        slightly off-center. His eyes are a striking blue, and his skin tone is
+        fair with a healthy, natural glow. His voice is smooth, confident, warm,
+        with a subtle gravelly undertone.
+      ORIENTATION:
+        SCREEN_POSITION: Far_Left
+        BODY: Facing forward, body oriented at 0 degrees.
+        HEAD: Looking directly at Kevin, head oriented at 0 degrees.
+        GAZE: Focused on Kevin, gaze oriented at 0 degrees.
+      CLOTHING:
+        DESCRIPTION: >-
+          Bryan is dressed in a smart-casual outfit that reflects his
+          professional yet approachable demeanor. He wears a tailored navy
+          blazer over a crisp white shirt, paired with dark denim jeans. His
+          shoes are polished brown leather loafers, and he accessorizes with a
+          sleek silver watch and a pair of stylish sunglasses perched on his
+          head.
+        UPPER_BODY:
+          - Tailored navy blazer
+          - Crisp white shirt
+        LOWER_BODY:
+          - Dark denim jeans
+        FOOTWEAR:
+          - Polished brown leather loafers
+      FACE:
+        SKIN: Fair with a healthy, natural glow
+        HAIR: >-
+          Medium-length, neatly styled brown hair with a slight wave, parted
+          slightly off-center
+  DIALOGUE:
+    - BRYAN_STARBUCKS: Kevin, did I hear that you live here in the town of Chelan?
+  ACTION:
+    DESCRIPTION: Bryan stands in the park, addressing Kevin with a confident demeanor.
+    MOVEMENT: Static, as Bryan is standing still while speaking.
+  SET_SETTINGS:
+    LOCATION: E Woodin Ave with Benches
+    SURROUNDINGS:
+      - Quaint shops
+      - Cafes
+      - Vibrant colors of the surroundings
+    LIGHTING: Natural daylight
+  BACKGROUND_NOISE: The gentle rustle of leaves and distant chatter of park-goers.
+  CAMERA_WORK:
+    INITIAL_PLACEMENT:
+      SHOT_TYPE: Medium_Close_Up_Shot
+      ANGLE: Eye_Level
+      FRAMING: Bryan is centered in the frame, positioned on the far left.
+    MOVEMENT:
+      TYPE: Static
+      PACE: None
+      EFFECT: Focuses on Bryan's expression and dialogue delivery.
+  CAMERA_TRANSITION: Cut in and out of the shot, maintaining a seamless flow.
+  LIGHTING_ATMOSPHERE: >-
+    The scene is lit with natural daylight, casting soft shadows and
+    highlighting Bryan's features. The lighting is warm, enhancing the vibrant
+    colors of the park setting. The color grading is subtle, maintaining a
+    realistic and inviting atmosphere.
+  SOUND:
+    AMBIENT: >-
+      The ambient sound of a park during the day, with birds chirping and leaves
+      rustling.
+    FOLEY: The subtle sound of Bryan's clothing as he gestures.
+    WILDLIFE: Occasional bird calls in the background.

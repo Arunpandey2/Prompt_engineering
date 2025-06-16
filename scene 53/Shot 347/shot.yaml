@@ -1,96 +1,189 @@
-id: 65ac96f3-3ac8-4f77-824b-c7af263711d1
-title: >-
+TITLE: >-
   Follows Bryan And The Youtuber Walking Near The Capitol Emphasizing The
   Products Benefits Matches Dialogue
-overViewForAI: >-
-  Bryan, VICTOR, and Kevin stand on E Woodin Ave, forming a triangle: Bryan
-  left, Kevin right of center, VICTOR far right. Camera angle shows Kevin's face
-  and body, Bryan from the side, over VICTOR's shoulder, with VICTOR slightly
-  off-screen. Matches dialogue.
-description: >-
-  Bryan, VICTOR, and Kevin stand on E Woodin Ave, forming a triangle: Bryan
-  left, Kevin right of center, VICTOR far right. Camera angle shows Kevin's face
-  and body, Bryan from the side, over VICTOR's shoulder, with VICTOR slightly
-  off-screen. Matches dialogue.
-script: ''
-detail: ''
-shotType: Medium_Shot
-renderType: DEFAULT
-renderAllOthers: BLENDER
-transitionIn: Cut
-transitionOut: Cut
-time: day
-published: false
-place: Park
-audioUrl: null
-audioDuration: 34.351020408163265
-videoUrl: null
-aspectRatio: Aspect_9_16
-shotCast:
-  - id: d9a05351-8fa0-4a03-8bcc-1cbe8ca283f5
-    cast:
-      id: c741ace6-4cf2-4b62-b842-5c7378b3086e
-      character:
-        id: 87f6e26c-96b5-446c-8d21-de7e6d317a88
-        name: Jason Bennett
-        gender: MALE
-      name: Bryan Starbucks
-      profession: Founder & CEO of Act 3 
-      role: PROTAGONIST
-      appearance: >-
-        Bryan Starbuck is a man in his 40s, 5'8'' tall, with a charismatic
-        presence. His face features a well-groomed mustache and beard, framing a
-        strong jawline. He has medium-length, neatly styled brown hair with a
-        slight wave, parted slightly off-center. His eyes are a striking blue,
-        and his skin tone is fair with a healthy, natural glow. His voice is
-        smooth, confident, warm, with a subtle gravelly undertone.
-      essence: ''
-      overview: Imagination is limitless when technology and creativity unite.
-      notes: "Mentor: A seasoned filmmaker who initially doubts Bryan's vision but becomes a key supporter.\r\nRival: A traditional filmmaker who challenges Bryan's approach, representing the old guard."
-    isPrimary: true
-    isSeated: false
-    isOverTheirShoulder: false
-    isVisible: true
-    parenthetical: Enthusiastic
-    characterPlacement: Middle
-    rotation: '0'
-    animationType: WALKING MOTION
-    animationStartDuration: 0
-    animationDuration: 5
-    audioStartDuration: 0
-    audioUrl: >-
+PUBLISHED: false
+PLACE: Park
+AUDIO_DURATION: 34.351020408163265
+ASPECT_RATIO: Aspect_9_16
+TRANSITION_IN: Cut
+TRANSITION_OUT: Cut
+TIME: day
+MIN_DURATION: 8
+SET_TYPE: Exterior
+ADDITIONAL_DETAILS: {}
+SHOT_CAST:
+  - IS_PRIMARY: true
+    IS_SEATED: false
+    IS_VISIBLE: true
+    IS_OVER_THEIR_SHOULDER: false
+    PARENTHETICAL: Enthusiastic
+    CHARACTER_PLACEMENT: Middle
+    ROTATION: '0'
+    AUDIO_START_DURATION: 0
+    AUDIO_URL: >-
       production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/65ac96f3-3ac8-4f77-824b-c7af263711d1/d9a05351-8fa0-4a03-8bcc-1cbe8ca283f5/audio_d9a05351-8fa0-4a03-8bcc-1cbe8ca283f5.mp3
-    audioDuration: 7.758367346938775
-    dialogue: >-
-      Let's land down there... on that street between the stores. <break
-      time="0.3s" /> We're now in the city of Shalan, <emphasis
-      level="moderate">right</emphasis> next to Lake Shalan.
-soundEffect: ''
-camera: ''
-lensType: ''
-compositionGuideline: ''
-cameraHeight: Eye_Level
-cameraMovement: Tracking
-cameraTargetTo: ONE_CHARACTER_CENTERED
-minDuration: 8
-weather: ''
-prompt: >-
-  Aerial cinematic shot approaching the small lakeside town of Shalan,
-  Washington, with the camera gently descending from above. The view captures
-  rolling green hills, rooftops of quaint downtown buildings, tree-lined
-  streets, and the shimmering edge of Lake Shalan. The camera glides downward in
-  a natural arc, slowly lowering toward street level, evoking arrival into the
-  peaceful town. Lighting is bright and realistic, set in soft afternoon
-  sunlight with clear shadows and light haze for depth. No people or animals are
-  visible.
-negativePrompt: ''
-motion: ''
-setType: Exterior
-shotSet:
-  id: f9659842-305e-49e6-aadb-c687ce0e0ef5
-  set:
-    id: 3177312f-6615-4825-81b7-d54864b9825a
-    name: GOLDEN SET - Lake Shalan
-    description: Lake Shalan with Path A, B and C.
-transformationStrength: null
-videoDurationInMs: null
+    AUDIO_DURATION: 7.758367346938775
+    DIALOGUE: >-
+      Let's land down there on that street between the stores. We're now in the
+      city of Chelan, right next to Lake Chelan.
+    ANIMATION_TYPE: WALKING MOTION
+    ANIMATION_START_DURATION: 0
+    ANIMATION_DURATION: 5
+    CAST:
+      NAME: Bryan Starbucks
+      AGE: 40
+      OVERVIEW: Imagination is limitless when technology and creativity unite.
+      PROFESSION: Founder & CEO of DreamStage
+      ROLE: PROTAGONIST
+      APPEARANCE: >-
+        a man in his 40s, 5'8'' tall, with a charismatic presence. His face
+        features a well-groomed mustache and beard, framing a strong jawline. He
+        has medium-length, neatly styled brown hair with a slight wave, parted
+        slightly off-center. His eyes are a striking blue, and his skin tone is
+        fair with a healthy, natural glow. His voice is smooth, confident, warm,
+        with a subtle gravelly undertone.
+      VOICE_TONE: >-
+        Smooth, confident, and warm with a subtle gravelly undertone. Reflects
+        experience, charisma, and calm authority.
+      NOTES: "Mentor: A seasoned filmmaker who initially doubts Bryan's vision but becomes a key supporter.\r\nRival: A traditional filmmaker who challenges Bryan's approach, representing the old guard."
+      CHARACTER:
+        NAME: Jason Bennett
+        GENDER: MALE
+NEEDED_LOCATION:
+  TITLE: E Woodin Ave with Shops
+  DESCRIPTION: >-
+    The street is lined with quaint shops and cafes, vibrant with the colors of
+    the surroundings.
+  TYPE: TwoDSet
+CINEMATOGRAPHY:
+  RENDER_TYPE: DEFAULT
+  RENDER_ALL_OTHERS: BLENDER
+  SHOT_TYPE: Medium_Shot
+  CAMERA_ANGLE: Eye_Level
+  CAMERA_TARGET_TO: ONE_CHARACTER_CENTERED
+  CAMERA_MOVEMENT: Tracking
+COMBINED_MEGA_PROMPT: >-
+  In a bustling park near the Capitol, Bryan Starbucks and a YouTuber walk side
+  by side, engaging in an enthusiastic and informative discussion about the
+  benefits of a product. The scene is set during the day, with the vibrant
+  colors of quaint shops and cafes lining E Woodin Ave providing a lively
+  backdrop. The camera captures this dynamic environment with a smooth and
+  steady tracking shot, maintaining focus on the characters while highlighting
+  the bustling city ambiance with distant chatter and occasional vehicle noise.
+
+
+  Bryan, the protagonist, is a charismatic man in his 40s, standing at 5'8''.
+  His well-groomed mustache and beard frame a strong jawline, and his
+  medium-length, neatly styled brown hair with a slight wave is parted slightly
+  off-center. His striking blue eyes and fair skin with a healthy, natural glow
+  add to his confident presence. Dressed in a smart-casual outfit, he wears a
+  tailored navy blazer over a crisp white shirt, paired with dark denim jeans
+  and polished brown leather loafers. A sleek silver watch and stylish
+  sunglasses complete his professional yet approachable look.
+
+
+  As they walk at a steady pace along the street, Bryan speaks with a smooth,
+  confident, and warm voice, carrying a subtle gravelly undertone. He gestures
+  with open palms, pointing toward the horizon as he enthusiastically explains,
+  "Let's land down there on that street between the stores. We're now in the
+  city of Chelan, right next to Lake Chelan." His body language is confident and
+  smooth, with his gaze focused ahead, oriented at 0 degrees.
+
+
+  The natural daylight bathes the scene, creating soft shadows and a warm,
+  inviting atmosphere. The lighting highlights the vibrant colors of the
+  surroundings and adds depth to the characters' features, enhancing the realism
+  and clarity of the scene. The ambient sounds of the city, including footsteps
+  on pavement, further immerse the viewer in this lively setting. No subtitles.
+MEGA_PROMPT_PIECES:
+  SCENE_OVERVIEW:
+    OVERALL_DESCRIPTION: >-
+      Bryan and a YouTuber walk near the Capitol, discussing the benefits of a
+      product. The scene is set in a park during the day, with a focus on their
+      conversation and the surrounding environment.
+    TONE: Enthusiastic and informative
+    STYLE: Realistic with a focus on character interaction and environmental details
+  VISUAL_STYLE: REAL_LIFE
+  CHARACTERS:
+    - NAME: Bryan Starbucks
+      ROLE: PROTAGONIST
+      GENDER: MALE
+      AGE_GROUP: ADULT
+      AGE: 25
+      PARENTHETICAL: Enthusiastic
+      CHARACTER_DIALOGUE: >-
+        Let's land down there on that street between the stores. We're now in
+        the city of Chelan, right next to Lake Chelan.
+      CHARACTER_ROTATION: 0
+      ACTION: Walking with a confident and smooth motion
+      PHYSICAL_DESCRIPTION: >-
+        a man in his 40s, 5'8'' tall, with a charismatic presence. His face
+        features a well-groomed mustache and beard, framing a strong jawline. He
+        has medium-length, neatly styled brown hair with a slight wave, parted
+        slightly off-center. His eyes are a striking blue, and his skin tone is
+        fair with a healthy, natural glow. His voice is smooth, confident, warm,
+        with a subtle gravelly undertone.
+      ORIENTATION:
+        SCREEN_POSITION: Middle
+        BODY: Facing forward, oriented at 0 degrees
+        HEAD: Looking forward, oriented at 0 degrees
+        GAZE: Focused ahead, oriented at 0 degrees
+      CLOTHING:
+        DESCRIPTION: >-
+          Bryan is dressed in a smart-casual outfit that reflects his
+          professional yet approachable demeanor. He wears a tailored navy
+          blazer over a crisp white shirt, paired with dark denim jeans. His
+          shoes are polished brown leather loafers, and he accessorizes with a
+          sleek silver watch and a pair of stylish sunglasses.
+        UPPER_BODY:
+          - Tailored navy blazer
+          - Crisp white shirt
+        LOWER_BODY:
+          - Dark denim jeans
+        FOOTWEAR:
+          - Polished brown leather loafers
+      FACE:
+        SKIN: Fair with a healthy, natural glow
+        HAIR: >-
+          Medium-length, neatly styled brown hair with a slight wave, parted
+          slightly off-center
+  DIALOGUE:
+    - BRYAN_STARBUCKS: >-
+        Let's land down there on that street between the stores. We're now in
+        the city of Chelan, right next to Lake Chelan.
+  ACTION:
+    DESCRIPTION: >-
+      Bryan and the YouTuber walk side by side near the Capitol, engaging in a
+      lively discussion about the product's benefits.
+    MOVEMENT: Walking at a steady pace along the street
+  SET_SETTINGS:
+    LOCATION: E Woodin Ave with Shops
+    BUILDING_TYPE: TwoDSet
+    SURROUNDINGS:
+      - Quaint shops
+      - Cafes
+      - Vibrant colors of the surroundings
+    LIGHTING: Natural daylight
+  BACKGROUND_NOISE: >-
+    Ambient sounds of a bustling city with distant chatter and occasional
+    vehicle noise
+  CAMERA_WORK:
+    INITIAL_PLACEMENT:
+      SHOT_TYPE: Medium_Shot
+      ANGLE: Eye_Level
+      FRAMING: One character centered
+    MOVEMENT:
+      TYPE: Tracking
+      PACE: Smooth and steady
+      EFFECT: >-
+        Maintains focus on the characters while capturing the dynamic
+        environment
+  CAMERA_TRANSITION: Cut in and out of the shot
+  LIGHTING_ATMOSPHERE: >-
+    The scene is lit by natural daylight, creating soft shadows and a warm,
+    inviting atmosphere. The lighting highlights the vibrant colors of the
+    surroundings and adds depth to the characters' features. The color grading
+    is natural, enhancing the realism and clarity of the scene.
+  SOUND:
+    AMBIENT: City ambiance with distant chatter and occasional vehicle noise
+    FOLEY: Footsteps on pavement

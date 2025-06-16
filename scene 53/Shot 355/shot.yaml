@@ -1,85 +1,173 @@
-id: 03bdaece-a1ab-4dd5-81c5-6ad72a3062b2
-title: >-
-  Camera Flies Over Lake Shalan Moving East Toward Shalan City Descending To E
+TITLE: >-
+  Camera Flies Over Lake Chelan Moving East Toward Chelan City Descending To E
   Woodin Ave Matches Dialogue And Action
-overViewForAI: 'Path A, 1%. Camera: Front. Kevin (right)'
-description: 'Path A, 1%. Camera: Front. Kevin (right)'
-script: ''
-detail: ''
-shotType: Medium_Shot
-renderType: GENERATIVE_V2V_ON_PREM
-renderAllOthers: BLENDER
-transitionIn: Cut
-transitionOut: Cut
-time: day
-published: false
-place: Park
-audioUrl: null
-audioDuration: null
-videoUrl: null
-aspectRatio: Aspect_9_16
-shotCast:
-  - id: f9ce6b72-e6c5-4f6e-8c18-1d2ad354628e
-    cast:
-      id: 4948b635-6a62-4c52-8b7d-d359ddb2861a
-      character:
-        id: b31160b4-cbf3-4b02-9db4-88d0afffe856
-        name: Jamal Richardson
-        gender: MALE
-      name: Kevin
-      profession: ''
-      role: SUPPORTING
-      appearance: >-
+PUBLISHED: false
+PLACE: Park
+ASPECT_RATIO: Aspect_9_16
+TRANSITION_IN: Cut
+TRANSITION_OUT: Cut
+TIME: day
+MIN_DURATION: 2
+SET_TYPE: Exterior
+ADDITIONAL_DETAILS: {}
+SHOT_CAST:
+  - IS_PRIMARY: true
+    IS_SEATED: false
+    IS_VISIBLE: true
+    IS_OVER_THEIR_SHOULDER: false
+    CHARACTER_PLACEMENT: Far_Left
+    ROTATION: '0'
+    AUDIO_START_DURATION: 0
+    AUDIO_URL: >-
+      production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/03bdaece-a1ab-4dd5-81c5-6ad72a3062b2/f9ce6b72-e6c5-4f6e-8c18-1d2ad354628e/audio_f9ce6b72-e6c5-4f6e-8c18-1d2ad354628e.mp3
+    AUDIO_DURATION: 15.725714285714286
+    DIALOGUE: >-
+      I do live here. I love Chelan. When I'm in the coffee shop, I often meet
+      the most interesting people I find people come here from very, very far
+      away. I hear stories about their families and where they come from. Chelan
+      is a very interesting town.
+    ANIMATION_START_DURATION: 0
+    ANIMATION_DURATION: 0
+    CAST:
+      NAME: Kevin
+      AGE: 125
+      ROLE: SUPPORTING
+      APPEARANCE: >-
         A 35-year-old Black man with a lean, muscular frame and a broad
         forehead. Standing at 5'9", he features short, neatly styled hair and a
         well-groomed goatee. He exudes a sharp, professional presence, carrying
         himself with composed confidence and understated strength.
-      essence: 'null'
-      overview: 'null'
-      notes: 'null'
-    isPrimary: true
-    isSeated: false
-    isOverTheirShoulder: false
-    isVisible: true
-    parenthetical: ''
-    characterPlacement: Far_Left
-    rotation: '0'
-    animationType: ''
-    animationStartDuration: 0
-    animationDuration: 0
-    audioStartDuration: 0
-    audioUrl: >-
-      production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/03bdaece-a1ab-4dd5-81c5-6ad72a3062b2/f9ce6b72-e6c5-4f6e-8c18-1d2ad354628e/audio_f9ce6b72-e6c5-4f6e-8c18-1d2ad354628e.mp3
-    audioDuration: 15.725714285714286
-    dialogue: >-
-      I do live here. <emphasis level="moderate">I love Shalan.</emphasis> When
-      I'm in the coffee shop, I often meet the most interesting people... <break
-      time="0.3s" /> I find people come here from <emphasis level="strong">very,
-      very</emphasis> far away. I hear stories about their families and where
-      they come from. <prosody rate="slow">Shalan is a very interesting
-      town.</prosody>
-soundEffect: ''
-camera: ''
-lensType: ''
-compositionGuideline: ''
-cameraHeight: Eye_Level
-cameraMovement: Fixed
-cameraTargetTo: ONE_CHARACTER_CENTERED
-minDuration: 2
-weather: ''
-prompt: >-
-  Front camera shot with Kevin positioned on the right in a softly lit, minimal
-  scene representing 1% progress on Path A, framed with open space to the left
-  for visual balance, maintaining a calm, cinematic tone with muted colors and
-  subtle depth for a cozy, focused atmosphere.
-negativePrompt: ''
-motion: ''
-setType: Exterior
-shotSet:
-  id: 0c76e4fc-2323-464d-97b9-12c21ee85353
-  set:
-    id: 3177312f-6615-4825-81b7-d54864b9825a
-    name: GOLDEN SET - Lake Shalan
-    description: Lake Shalan with Path A, B and C.
-transformationStrength: null
-videoDurationInMs: null
+      CHARACTER:
+        NAME: Jamal Richardson
+        GENDER: MALE
+NEEDED_LOCATION:
+  TITLE: E Woodin Ave with Shops
+  DESCRIPTION: >-
+    The street is lined with quaint shops and cafes, vibrant with the colors of
+    the surroundings.
+  TYPE: TwoDSet
+CINEMATOGRAPHY:
+  RENDER_TYPE: GENERATIVE_V2V_ON_PREM
+  RENDER_ALL_OTHERS: BLENDER
+  SHOT_TYPE: Medium_Shot
+  CAMERA_ANGLE: Eye_Level
+  CAMERA_TARGET_TO: ONE_CHARACTER_CENTERED
+  CAMERA_MOVEMENT: Fixed
+COMBINED_MEGA_PROMPT: >-
+  The scene opens with a sweeping aerial view over the serene expanse of Lake
+  Chelan, the camera gliding smoothly eastward toward the charming Chelan City.
+  As the camera descends gracefully, it transitions to a bustling street scene
+  on E Woodin Ave, capturing the vibrant energy of the area. The street is lined
+  with quaint shops and cozy cafes, their vibrant colors popping under the
+  natural daylight, which casts soft shadows and enhances the warm, inviting
+  atmosphere.
+
+
+  In the foreground, Jamal Richardson, a 35-year-old Black man with a lean,
+  muscular frame, stands confidently. His short, neatly styled hair and
+  well-groomed goatee complement his sharp, professional presence. Jamal is
+  positioned on the far left of the screen, his composed confidence and
+  understated strength evident in his posture. As he speaks, his gestures are
+  subtle yet expressive, his hands moving gently to emphasize his words.
+
+
+  The camera, fixed at an eye-level medium shot, centers on Jamal, maintaining a
+  smooth and steady focus that underscores the stability and warmth of the
+  scene. The ambient sounds of the bustling street fill the air, with distant
+  chatter, footsteps, and the occasional clinking of coffee cups creating a
+  lively backdrop. The subtle rustling of Jamal's clothing and the sound of
+  footsteps on the pavement add to the realism of the moment.
+
+
+  Jamal shares his love for Chelan, his voice carrying a tone of genuine
+  affection and pride. He talks about the interesting people he meets at the
+  local coffee shop, recounting stories of visitors from faraway places and
+  their fascinating backgrounds. His words paint a picture of Chelan as a town
+  rich with stories and connections, a place where community and personal
+  narratives intertwine.
+
+
+  The lighting, natural and soft, highlights the vibrant colors of the
+  surroundings, enhancing the sense of community and connection that permeates
+  the scene. The camera's smooth and steady descent, combined with the warm
+  lighting and lively background noise, creates an immersive experience that
+  draws the viewer into the heart of Chelan's vibrant community. No subtitles.
+MEGA_PROMPT_PIECES:
+  SCENE_OVERVIEW:
+    OVERALL_DESCRIPTION: >-
+      The camera flies over Lake Chelan, moving east toward Chelan City,
+      descending to E Woodin Ave. The scene matches the dialogue and action of
+      Jamal Richardson, a 35-year-old Black man, as he shares his love for
+      Chelan and the interesting people he meets at the coffee shop. The
+      atmosphere is vibrant and lively, with a sense of community and
+      connection.
+    TONE: Warm and inviting
+    STYLE: Realistic with a focus on community and personal stories
+  VISUAL_STYLE: REAL_LIFE
+  CHARACTERS:
+    - NAME: Kevin
+      ROLE: SUPPORTING
+      GENDER: MALE
+      AGE_GROUP: ADULT
+      AGE: 35
+      CHARACTER_DIALOGUE: >-
+        I do live here. I love Chelan. When I'm in the coffee shop, I often meet
+        the most interesting people I find people come here from very, very far
+        away. I hear stories about their families and where they come from.
+        Chelan is a very interesting town.
+      CHARACTER_ROTATION: 0
+      PHYSICAL_DESCRIPTION: >-
+        A 35-year-old Black man with a lean, muscular frame and a broad
+        forehead. Standing at 5'9", he features short, neatly styled hair and a
+        well-groomed goatee. He exudes a sharp, professional presence, carrying
+        himself with composed confidence and understated strength.
+      ORIENTATION:
+        SCREEN_POSITION: Far_Left
+      CLOTHING: {}
+      FACE: {}
+  DIALOGUE:
+    - KEVIN: >-
+        I do live here. I love Chelan. When I'm in the coffee shop, I often meet
+        the most interesting people I find people come here from very, very far
+        away. I hear stories about their families and where they come from.
+        Chelan is a very interesting town.
+  ACTION:
+    DESCRIPTION: >-
+      The camera flies over Lake Chelan, moving east toward Chelan City, and
+      descends to E Woodin Ave, capturing the vibrant street lined with quaint
+      shops and cafes.
+    MOVEMENT: Smooth and steady descent toward the street
+  SET_SETTINGS:
+    LOCATION: E Woodin Ave with Shops
+    BUILDING_TYPE: Shops and cafes
+    SURROUNDINGS:
+      - Quaint shops
+      - Cafes
+      - Vibrant colors
+    LIGHTING: Natural daylight
+    VEHICLES: None
+  BACKGROUND_NOISE: >-
+    The ambient sounds of a bustling street, with distant chatter, footsteps,
+    and the occasional clinking of coffee cups.
+  CAMERA_WORK:
+    INITIAL_PLACEMENT:
+      SHOT_TYPE: Medium_Shot
+      ANGLE: Eye_Level
+      FRAMING: Centered on Jamal Richardson
+    MOVEMENT:
+      TYPE: Fixed
+      PACE: Smooth and steady
+      EFFECT: Creates a sense of stability and focus on the character
+  CAMERA_TRANSITION: Cut
+  LIGHTING_ATMOSPHERE: >-
+    The scene is lit with natural daylight, casting soft shadows and
+    highlighting the vibrant colors of the surroundings. The lighting creates a
+    warm and inviting atmosphere, enhancing the sense of community and
+    connection.
+  SOUND:
+    AMBIENT: >-
+      The ambient sounds of a bustling street, with distant chatter, footsteps,
+      and the occasional clinking of coffee cups.
+    FOLEY: >-
+      The subtle rustling of clothing as Jamal gestures while speaking, and the
+      sound of footsteps on the pavement.

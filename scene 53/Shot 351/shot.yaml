@@ -1,84 +1,185 @@
-id: aae6af1c-6a66-4cd4-bc62-5175dab1e83d
-title: Bryan Discusses Script And Set Upgrades Matches Dialogue
-overViewForAI: >-
-  Path A, 1%. Camera: Front. Medium Shot. Victor is on left. Kevin has stepped
-  forward and is now center.
-description: >-
-  Path A, 1%. Camera: Front. Medium Shot. Victor is on left. Kevin has stepped
-  forward and is now center.
-script: ''
-detail: ''
-shotType: Medium_Shot
-renderType: DEFAULT
-renderAllOthers: GENERATIVE_AI_ADV
-transitionIn: Cut
-transitionOut: Cut
-time: day
-published: false
-place: Park
-audioUrl: null
-audioDuration: null
-videoUrl: null
-aspectRatio: Aspect_9_16
-shotCast:
-  - id: 749c2bc4-4c57-4ea4-b490-18ac0622482c
-    cast:
-      id: c741ace6-4cf2-4b62-b842-5c7378b3086e
-      character:
-        id: 87f6e26c-96b5-446c-8d21-de7e6d317a88
-        name: Jason Bennett
-        gender: MALE
-      name: Bryan Starbucks
-      profession: Founder & CEO of Act 3 
-      role: PROTAGONIST
-      appearance: >-
-        Bryan Starbuck is a man in his 40s, 5'8'' tall, with a charismatic
-        presence. His face features a well-groomed mustache and beard, framing a
-        strong jawline. He has medium-length, neatly styled brown hair with a
-        slight wave, parted slightly off-center. His eyes are a striking blue,
-        and his skin tone is fair with a healthy, natural glow. His voice is
-        smooth, confident, warm, with a subtle gravelly undertone.
-      essence: ''
-      overview: Imagination is limitless when technology and creativity unite.
-      notes: "Mentor: A seasoned filmmaker who initially doubts Bryan's vision but becomes a key supporter.\r\nRival: A traditional filmmaker who challenges Bryan's approach, representing the old guard."
-    isPrimary: true
-    isSeated: false
-    isOverTheirShoulder: false
-    isVisible: true
-    parenthetical: Affirmative
-    characterPlacement: Middle
-    rotation: '0'
-    animationType: TALK SERIOUS
-    animationStartDuration: 0
-    animationDuration: 5
-    audioStartDuration: 0
-    audioUrl: >-
+TITLE: Bryan Discusses Script And Set Upgrades Matches Dialogue
+PUBLISHED: false
+PLACE: Park
+ASPECT_RATIO: Aspect_9_16
+TRANSITION_IN: Cut
+TRANSITION_OUT: Cut
+TIME: day
+MIN_DURATION: 10
+SET_TYPE: Exterior
+ADDITIONAL_DETAILS: {}
+SHOT_CAST:
+  - IS_PRIMARY: true
+    IS_SEATED: false
+    IS_VISIBLE: true
+    IS_OVER_THEIR_SHOULDER: false
+    PARENTHETICAL: Affirmative
+    CHARACTER_PLACEMENT: Middle
+    ROTATION: '0'
+    AUDIO_START_DURATION: 0
+    AUDIO_URL: >-
       production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/aae6af1c-6a66-4cd4-bc62-5175dab1e83d/749c2bc4-4c57-4ea4-b490-18ac0622482c/audio_749c2bc4-4c57-4ea4-b490-18ac0622482c.mp3
-    audioDuration: 1.619591836734694
-    dialogue: <prosody rate="slow">VICTOR</prosody>... nice to meet you.
-soundEffect: ''
-camera: ''
-lensType: ''
-compositionGuideline: ''
-cameraHeight: Eye_Level
-cameraMovement: Fixed
-cameraTargetTo: ONE_CHARACTER_CENTERED
-minDuration: 10
-weather: ''
-prompt: >-
-  Front camera, medium shot with Bryan centered and standing still alone in a
-  softly lit, minimal scene representing 1% progress on Path A, as Victor
-  quietly steps back to stand beside Kevin off-screen, followed by Kevin taking
-  a few calm steps forward toward where Victor originally stood, maintaining a
-  gentle, cinematic rhythm with muted colors and cozy atmosphere.
-negativePrompt: ''
-motion: ''
-setType: Exterior
-shotSet:
-  id: d9d67b20-2575-43d5-9291-bc383fc4da67
-  set:
-    id: 3177312f-6615-4825-81b7-d54864b9825a
-    name: GOLDEN SET - Lake Shalan
-    description: Lake Shalan with Path A, B and C.
-transformationStrength: null
-videoDurationInMs: null
+    AUDIO_DURATION: 1.619591836734694
+    DIALOGUE: VICTOR nice to meet you.
+    ANIMATION_TYPE: TALK SERIOUS
+    ANIMATION_START_DURATION: 0
+    ANIMATION_DURATION: 5
+    CAST:
+      NAME: Bryan Starbucks
+      AGE: 40
+      OVERVIEW: Imagination is limitless when technology and creativity unite.
+      PROFESSION: Founder & CEO of DreamStage
+      ROLE: PROTAGONIST
+      APPEARANCE: >-
+        a man in his 40s, 5'8'' tall, with a charismatic presence. His face
+        features a well-groomed mustache and beard, framing a strong jawline. He
+        has medium-length, neatly styled brown hair with a slight wave, parted
+        slightly off-center. His eyes are a striking blue, and his skin tone is
+        fair with a healthy, natural glow. His voice is smooth, confident, warm,
+        with a subtle gravelly undertone.
+      VOICE_TONE: >-
+        Smooth, confident, and warm with a subtle gravelly undertone. Reflects
+        experience, charisma, and calm authority.
+      NOTES: "Mentor: A seasoned filmmaker who initially doubts Bryan's vision but becomes a key supporter.\r\nRival: A traditional filmmaker who challenges Bryan's approach, representing the old guard."
+      CHARACTER:
+        NAME: Jason Bennett
+        GENDER: MALE
+NEEDED_LOCATION:
+  TITLE: E Woodin Ave with Shops
+  DESCRIPTION: >-
+    The street is lined with quaint shops and cafes, vibrant with the colors of
+    the surroundings.
+  TYPE: TwoDSet
+CINEMATOGRAPHY:
+  RENDER_TYPE: DEFAULT
+  RENDER_ALL_OTHERS: GENERATIVE_AI_ADV
+  SHOT_TYPE: Medium_Shot
+  CAMERA_ANGLE: Eye_Level
+  CAMERA_TARGET_TO: ONE_CHARACTER_CENTERED
+  CAMERA_MOVEMENT: Fixed
+COMBINED_MEGA_PROMPT: >-
+  In a serene park setting, Bryan Starbucks, a charismatic filmmaker in his 40s,
+  stands confidently, discussing script and set upgrades. The atmosphere is
+  professional yet relaxed, with Bryan exuding an air of authority and
+  assurance. The scene is captured in a realistic and cinematic style, with the
+  camera positioned at eye level for a medium shot, focusing on Bryan's
+  expressions and dialogue. The camera remains static, allowing the viewer to
+  fully engage with Bryan's confident demeanor and subtle hand gestures as he
+  emphasizes his points.
+
+
+  Bryan is centered in the frame, facing the camera directly. His striking blue
+  eyes gaze steadily ahead, conveying a sense of purpose and clarity. He is
+  dressed in a smart-casual outfit that reflects his professional yet
+  approachable nature. A tailored navy blazer over a crisp white shirt
+  complements his dark denim jeans, while polished brown leather loafers add a
+  touch of sophistication. A silver wristwatch and stylish sunglasses complete
+  his look, highlighting his attention to detail and modern style. His
+  medium-length brown hair, neatly styled with a slight wave, frames his face,
+  which features a well-groomed mustache and beard, accentuating his strong
+  jawline.
+
+
+  The park is alive with the gentle rustling of leaves and distant chatter from
+  nearby cafes, creating a soothing ambient soundscape. Occasional bird chirping
+  adds to the natural atmosphere. The background is a vibrant tapestry of quaint
+  shops and cafes, their colors adding a lively backdrop to the scene. Natural
+  daylight bathes the setting, casting soft shadows and highlighting Bryan's
+  features with a warm tone that enhances the inviting atmosphere. Reflections
+  from nearby shop windows add subtle highlights, contributing to the scene's
+  dynamic visual appeal.
+
+
+  As Bryan speaks, his voice is smooth and confident, with a warm, gravelly
+  undertone. He greets someone named Victor, his tone affirmative and
+  professional, setting the stage for a meaningful exchange. The scene is devoid
+  of subtitles, allowing the viewer to focus entirely on the visual and auditory
+  elements that bring Bryan's character and the park setting to life.
+MEGA_PROMPT_PIECES:
+  SCENE_OVERVIEW:
+    OVERALL_DESCRIPTION: >-
+      Bryan Starbucks, a charismatic filmmaker, discusses script and set
+      upgrades in a park setting. The atmosphere is professional yet relaxed,
+      with Bryan exuding confidence and authority.
+    TONE: Affirmative and professional
+    STYLE: Realistic and cinematic
+  VISUAL_STYLE: REAL_LIFE
+  CHARACTERS:
+    - NAME: Bryan Starbucks
+      ROLE: PROTAGONIST
+      GENDER: MALE
+      AGE_GROUP: ADULT
+      AGE: 25
+      PARENTHETICAL: Affirmative
+      CHARACTER_DIALOGUE: VICTOR nice to meet you.
+      CHARACTER_ROTATION: 0
+      ACTION: Bryan talks seriously, conveying his ideas with confidence.
+      PHYSICAL_DESCRIPTION: >-
+        a man in his 40s, 5'8'' tall, with a charismatic presence. His face
+        features a well-groomed mustache and beard, framing a strong jawline. He
+        has medium-length, neatly styled brown hair with a slight wave, parted
+        slightly off-center. His eyes are a striking blue, and his skin tone is
+        fair with a healthy, natural glow. His voice is smooth, confident, warm,
+        with a subtle gravelly undertone.
+      ORIENTATION:
+        SCREEN_POSITION: Middle
+        BODY: Facing the camera directly, 0 degrees
+        HEAD: Looking straight ahead, 0 degrees
+        GAZE: Directly at the camera, 0 degrees
+      CLOTHING:
+        DESCRIPTION: >-
+          Bryan is dressed in a smart-casual outfit that reflects his
+          professional yet approachable demeanor. He wears a tailored navy
+          blazer over a crisp white shirt, paired with dark denim jeans. His
+          shoes are polished brown leather loafers, adding a touch of
+          sophistication. A silver wristwatch and a pair of stylish sunglasses
+          complete his look, emphasizing his attention to detail and modern
+          style.
+        UPPER_BODY:
+          - Tailored navy blazer
+          - Crisp white shirt
+        LOWER_BODY:
+          - Dark denim jeans
+        FOOTWEAR:
+          - Polished brown leather loafers
+      FACE:
+        SKIN: Fair with a healthy, natural glow
+        HAIR: >-
+          Medium-length, neatly styled brown hair with a slight wave, parted
+          slightly off-center
+  DIALOGUE:
+    - BRYAN_STARBUCKS: VICTOR nice to meet you.
+  ACTION:
+    DESCRIPTION: >-
+      Bryan stands in the park, discussing script and set upgrades with a
+      serious demeanor.
+    MOVEMENT: Static, with subtle hand gestures to emphasize points
+  SET_SETTINGS:
+    LOCATION: E Woodin Ave with Shops
+    SURROUNDINGS:
+      - Quaint shops
+      - Cafes
+      - Vibrant colors of the surroundings
+    LIGHTING: Natural daylight
+  BACKGROUND_NOISE: Gentle rustling of leaves and distant chatter from nearby cafes
+  CAMERA_WORK:
+    INITIAL_PLACEMENT:
+      SHOT_TYPE: Medium_Shot
+      ANGLE: Eye_Level
+      FRAMING: Bryan is centered in the frame
+    MOVEMENT:
+      TYPE: Static
+      PACE: None
+      EFFECT: Focuses on Bryan's expressions and dialogue
+  CAMERA_TRANSITION: Cut in and out of the shot
+  LIGHTING_ATMOSPHERE: >-
+    The scene is lit by natural daylight, casting soft shadows and highlighting
+    Bryan's features. The lighting is even, with a slight warm tone to enhance
+    the inviting atmosphere. Reflections from nearby shop windows add subtle
+    highlights.
+  SOUND:
+    AMBIENT: >-
+      Soft ambient sounds of the park, including distant bird calls and the
+      murmur of people
+    FOLEY: Subtle rustling of clothing as Bryan gestures
+    WILDLIFE: Occasional bird chirping
