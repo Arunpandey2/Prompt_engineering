@@ -76,7 +76,7 @@ MEGA_PROMPT_PIECES:
       ROLE: PROTAGONIST
       GENDER: MALE
       AGE_GROUP: ADULT
-      AGE: 25
+      AGE: 40
       CHARACTER_DIALOGUE: >-
         Before we dive into this, I want to mention that most people making
         movies and videos won't need this section.
