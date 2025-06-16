@@ -1,0 +1,188 @@
+TITLE: BRYAN INTRO SETS. 1ST IN STORES DOWNTOWN (Part 3)
+PUBLISHED: false
+PLACE: Journalist (Newspaper Building)
+ASPECT_RATIO: Aspect_16_9
+MIN_DURATION: 2
+SET_TYPE: Interior
+TRANSFORMATION_STRENGTH: 0.5
+SHOT_CAST:
+  - IS_PRIMARY: true
+    IS_SEATED: false
+    IS_VISIBLE: true
+    IS_OVER_THEIR_SHOULDER: false
+    CHARACTER_PLACEMENT: Far_Left
+    ROTATION: '0'
+    AUDIO_START_DURATION: 0
+    AUDIO_URL: >-
+      production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/6c919184-2d0d-44d9-83a8-68ea33084104/c72fb37b-a564-417e-90bd-e9935b26dca6/audio_c72fb37b-a564-417e-90bd-e9935b26dca6.mp3
+    AUDIO_DURATION: 6.217142857142857
+    DIALOGUE: >-
+      You can generate 2D sets with MidJourney and similar tools, then import
+      those as sets.
+    ANIMATION_START_DURATION: 0
+    ANIMATION_DURATION: 0
+    CAST:
+      NAME: Bryan Starbucks
+      AGE: 40
+      OVERVIEW: Imagination is limitless when technology and creativity unite.
+      PROFESSION: Founder & CEO of DreamStage
+      ROLE: PROTAGONIST
+      APPEARANCE: >-
+        a man in his 40s, 5'8'' tall, with a charismatic presence. His face
+        features a well-groomed mustache and beard, framing a strong jawline. He
+        has medium-length, neatly styled brown hair with a slight wave, parted
+        slightly off-center. His eyes are a striking blue, and his skin tone is
+        fair with a healthy, natural glow. His voice is smooth, confident, warm,
+        with a subtle gravelly undertone.
+      VOICE_TONE: >-
+        Smooth, confident, and warm with a subtle gravelly undertone. Reflects
+        experience, charisma, and calm authority.
+      NOTES: "Mentor: A seasoned filmmaker who initially doubts Bryan's vision but becomes a key supporter.\r\nRival: A traditional filmmaker who challenges Bryan's approach, representing the old guard."
+NEEDED_LOCATION: {}
+CINEMATOGRAPHY:
+  RENDER_TYPE: GENERATIVE_V2V
+  RENDER_ALL_OTHERS: BLENDER
+  SHOT_TYPE: Close_Up_Shot
+  CAMERA_ANGLE: Eye_Level
+  CAMERA_TARGET_TO: ONE_CHARACTER_CENTERED
+  CAMERA_MOVEMENT: Fixed
+MEGA_PROMPT_PIECES:
+  SCENE_OVERVIEW:
+    OVERALL_DESCRIPTION: >-
+      Bryan Starbucks, the protagonist, is in a newspaper building, discussing
+      the integration of technology and creativity in filmmaking. The atmosphere
+      is professional and innovative.
+    TONE: Inspirational and forward-thinking.
+    STYLE: Modern and professional with a focus on technological innovation.
+  VISUAL_STYLE:
+    REAL_LIFE: >-
+      Render the scene with cinematic realism, using natural lighting, shallow
+      depth of field, and high-fidelity textures to mimic live-action film.
+      Focus on lifelike character proportions, realistic environments, and
+      subtle emotional nuance, reminiscent of high-budget drama or action films.
+  CHARACTERS:
+    - NAME: Bryan Starbucks
+      ROLE: PROTAGONIST
+      GENDER: MALE
+      AGE_GROUP: ADULT
+      AGE: 25
+      CHARACTER_DIALOGUE: >-
+        You can generate 2D sets with MidJourney and similar tools, then import
+        those as sets.
+      CHARACTER_ROTATION: 0
+      ACTION: >-
+        Bryan stands confidently, gesturing slightly with his hands as he
+        speaks.
+      PHYSICAL_DESCRIPTION: >-
+        a man in his 40s, 5'8'' tall, with a charismatic presence. His face
+        features a well-groomed mustache and beard, framing a strong jawline. He
+        has medium-length, neatly styled brown hair with a slight wave, parted
+        slightly off-center. His eyes are a striking blue, and his skin tone is
+        fair with a healthy, natural glow. His voice is smooth, confident, warm,
+        with a subtle gravelly undertone.
+      VOICE_TONE: >-
+        Smooth, confident, and warm with a subtle gravelly undertone. Reflects
+        experience, charisma, and calm authority.
+      ORIENTATION:
+        SCREEN_POSITION: Far_Left
+        CHARACTER_ROTATION: '0'
+        BODY: Facing forward, body oriented at 0 degrees.
+        HEAD: Looking straight ahead, head oriented at 0 degrees.
+        GAZE: Directly at the camera, gaze oriented at 0 degrees.
+      CLOTHING:
+        DESCRIPTION: >-
+          Bryan is dressed in a smart-casual outfit that reflects his innovative
+          and professional persona. He wears a tailored navy blazer over a crisp
+          white shirt, paired with dark denim jeans. His shoes are polished
+          brown leather loafers, and he accessorizes with a sleek silver watch
+          and a pair of stylish glasses.
+        UPPER_BODY:
+          - Tailored navy blazer
+          - Crisp white shirt
+        LOWER_BODY:
+          - Dark denim jeans
+        FOOTWEAR:
+          - Polished brown leather loafers
+      FACE:
+        SKIN: Fair with a healthy, natural glow.
+        HAIR: >-
+          Medium-length, neatly styled brown hair with a slight wave, parted
+          slightly off-center.
+  CAMERA_WORK:
+    INITIAL_PLACEMENT:
+      SHOT_TYPE: Close Up Shot
+      ANGLE: Eye_Level
+      FRAMING: Bryan is centered in the frame, positioned on the far left.
+    MOVEMENT:
+      TYPE: Static
+      PACE: None
+      EFFECT: Focuses attention on Bryan's expression and dialogue.
+  DIALOGUE:
+    - BRYAN_STARBUCKS: >-
+        You can generate 2D sets with MidJourney and similar tools, then import
+        those as sets.
+  ACTION:
+    DESCRIPTION: >-
+      Bryan stands in the newspaper building, discussing the integration of
+      technology and creativity in filmmaking.
+    MOVEMENT: Static, with slight hand gestures.
+  SET_SETTINGS:
+    LOCATION: Journalist (Newspaper Building)
+    BUILDING_TYPE: Office
+    SURROUNDINGS:
+      - Desks
+      - Computers
+      - Office supplies
+    LIGHTING: Bright, even office lighting.
+  AI_WONDER_OBJECT: {}
+  BACKGROUND_NOISE: The ambient sound of a bustling office, with faint typing and phone ringing.
+  CAMERA_TRANSITION: The camera remains fixed on Bryan, with no transition in or out of the shot.
+  LIGHTING_ATMOSPHERE: >-
+    The scene is lit with bright, even office lighting, creating a professional
+    and clear atmosphere. Shadows are minimal, and the color grading is neutral,
+    emphasizing realism and clarity.
+  SOUND:
+    AMBIENT: >-
+      The ambient sound of a bustling office, with faint typing and phone
+      ringing.
+    FOLEY: Subtle sounds of paper rustling and slight movements.
+COMBINED_MEGA_PROMPT: >-
+  In a bustling newspaper building, Bryan Starbucks, the charismatic
+  protagonist, stands confidently amidst the hum of a professional and
+  innovative atmosphere. The scene is rendered with cinematic realism, capturing
+  the lifelike textures and subtle emotional nuances reminiscent of high-budget
+  drama films. Bryan, a man in his 40s with a well-groomed mustache and beard,
+  exudes a charismatic presence. His medium-length brown hair, styled with a
+  slight wave, frames his striking blue eyes and fair skin, which glows with a
+  healthy, natural radiance. Dressed in a smart-casual ensemble, he wears a
+  tailored navy blazer over a crisp white shirt, paired with dark denim jeans
+  and polished brown leather loafers. A sleek silver watch and stylish glasses
+  complete his look, reflecting his innovative and professional persona.
+
+
+  The camera captures a close-up shot at eye level, with Bryan centered in the
+  frame on the far left. The static camera focuses intently on his expression
+  and dialogue, allowing his smooth, confident voice with a subtle gravelly
+  undertone to resonate clearly. As he speaks, Bryan gestures slightly with his
+  hands, discussing the integration of technology and creativity in filmmaking.
+  His voice reflects experience, charisma, and calm authority, drawing the
+  viewer into his forward-thinking narrative.
+
+
+  The background setting is a typical office environment within the newspaper
+  building, complete with desks, computers, and office supplies. Bright, even
+  office lighting creates a professional and clear atmosphere, with minimal
+  shadows and neutral color grading to emphasize realism and clarity. The
+  ambient sound of a bustling office fills the air, with faint typing and phone
+  ringing, complemented by subtle foley sounds of paper rustling and slight
+  movements.
+
+
+  The scene is imbued with an inspirational and forward-thinking tone, as Bryan
+  explains how 2D sets can be generated with tools like MidJourney and imported
+  as sets. His direct gaze at the camera, combined with his confident gestures,
+  underscores the innovative spirit of his message. The color palette is modern
+  and professional, with a focus on technological innovation.
+
+
+  No subtitles.

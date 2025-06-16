@@ -1,0 +1,199 @@
+TITLE: Follows Bryan And The Youtuber Underscoring Productivity Matches Dialogue
+PUBLISHED: false
+PLACE: Park
+ASPECT_RATIO: Aspect_9_16
+TRANSITION_IN: Cut
+TRANSITION_OUT: Cut
+TIME: day
+MIN_DURATION: 2
+SET_TYPE: Exterior
+ADDITIONAL_DETAILS: {}
+SHOT_CAST:
+  - IS_PRIMARY: true
+    IS_SEATED: false
+    IS_VISIBLE: true
+    IS_OVER_THEIR_SHOULDER: false
+    PARENTHETICAL: Comprehensive
+    CHARACTER_PLACEMENT: Middle
+    ROTATION: '0'
+    AUDIO_START_DURATION: 0
+    AUDIO_URL: >-
+      production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/f3b9ee06-777f-4ff0-80f3-7d339c72467f/f78897fb-ac58-4ab7-9ad1-0b411cfabbbd/audio_f78897fb-ac58-4ab7-9ad1-0b411cfabbbd.mp3
+    AUDIO_DURATION: 4.963265306122449
+    DIALOGUE: >-
+      Hey, this product is great for both of you I'll chat with each of you
+      separately, okay?
+    ANIMATION_TYPE: TALK SERIOUS
+    ANIMATION_START_DURATION: 0
+    ANIMATION_DURATION: 5
+    CAST:
+      NAME: Bryan Starbucks
+      AGE: 40
+      OVERVIEW: Imagination is limitless when technology and creativity unite.
+      PROFESSION: Founder & CEO of DreamStage
+      ROLE: PROTAGONIST
+      APPEARANCE: >-
+        a man in his 40s, 5'8'' tall, with a charismatic presence. His face
+        features a well-groomed mustache and beard, framing a strong jawline. He
+        has medium-length, neatly styled brown hair with a slight wave, parted
+        slightly off-center. His eyes are a striking blue, and his skin tone is
+        fair with a healthy, natural glow. His voice is smooth, confident, warm,
+        with a subtle gravelly undertone.
+      VOICE_TONE: >-
+        Smooth, confident, and warm with a subtle gravelly undertone. Reflects
+        experience, charisma, and calm authority.
+      NOTES: "Mentor: A seasoned filmmaker who initially doubts Bryan's vision but becomes a key supporter.\r\nRival: A traditional filmmaker who challenges Bryan's approach, representing the old guard."
+NEEDED_LOCATION:
+  TITLE: E Woodin Ave with Trees
+  DESCRIPTION: >-
+    The street is lined with quaint shops and cafes, vibrant with the colors of
+    the surroundings.
+  TYPE: TwoDSet
+CINEMATOGRAPHY:
+  RENDER_TYPE: GENERATIVE_V2V_ON_PREM
+  RENDER_ALL_OTHERS: GENERATIVE_AI_ADV
+  SHOT_TYPE: Medium_Shot
+  CAMERA_ANGLE: Eye_Level
+  CAMERA_TARGET_TO: ONE_CHARACTER_CENTERED
+  CAMERA_MOVEMENT: Fixed
+MEGA_PROMPT_PIECES:
+  SCENE_OVERVIEW:
+    OVERALL_DESCRIPTION: >-
+      Bryan Starbucks, a charismatic and confident CEO, is in a park discussing
+      a product with a YouTuber. The atmosphere is professional yet relaxed,
+      with Bryan taking a serious tone as he addresses the YouTuber.
+    TONE: Serious and professional with a hint of warmth.
+    STYLE: >-
+      The scene follows a narrative style that underscores productivity and
+      innovation, reflecting Bryan's visionary approach.
+  VISUAL_STYLE:
+    REAL_LIFE: >-
+      Render the scene with cinematic realism, using natural lighting, shallow
+      depth of field, and high-fidelity textures to mimic live-action film.
+      Focus on lifelike character proportions, realistic environments, and
+      subtle emotional nuance, reminiscent of high-budget drama or action films.
+  CHARACTERS:
+    - NAME: Bryan Starbucks
+      ROLE: PROTAGONIST
+      GENDER: MALE
+      AGE_GROUP: ADULT
+      AGE: 25
+      PARENTHETICAL: Comprehensive
+      CHARACTER_DIALOGUE: >-
+        Hey, this product is great for both of you I'll chat with each of you
+        separately, okay?
+      CHARACTER_ROTATION: 0
+      ACTION: >-
+        Bryan is talking seriously, conveying his message with confidence and
+        authority.
+      PHYSICAL_DESCRIPTION: >-
+        a man in his 40s, 5'8'' tall, with a charismatic presence. His face
+        features a well-groomed mustache and beard, framing a strong jawline. He
+        has medium-length, neatly styled brown hair with a slight wave, parted
+        slightly off-center. His eyes are a striking blue, and his skin tone is
+        fair with a healthy, natural glow. His voice is smooth, confident, warm,
+        with a subtle gravelly undertone.
+      VOICE_TONE: >-
+        Smooth, confident, and warm with a subtle gravelly undertone. Reflects
+        experience, charisma, and calm authority.
+      ORIENTATION:
+        SCREEN_POSITION: Middle
+        CHARACTER_ROTATION: '0'
+        BODY: Facing the camera directly, body orientation at 0 degrees.
+        HEAD: Looking directly at the camera, head orientation at 0 degrees.
+        GAZE: Focused on the camera, gaze orientation at 0 degrees.
+      CLOTHING:
+        DESCRIPTION: >-
+          Bryan is dressed in a smart-casual outfit that reflects his
+          professional yet approachable demeanor. He wears a tailored navy
+          blazer over a crisp white shirt, paired with dark denim jeans. His
+          shoes are polished brown leather loafers, and he accessorizes with a
+          sleek silver watch and a pair of stylish glasses.
+        UPPER_BODY:
+          - Tailored navy blazer
+          - Crisp white shirt
+        LOWER_BODY:
+          - Dark denim jeans
+        FOOTWEAR:
+          - Polished brown leather loafers
+      FACE:
+        SKIN: Fair with a healthy, natural glow.
+        HAIR: >-
+          Medium-length, neatly styled brown hair with a slight wave, parted
+          slightly off-center.
+  CAMERA_WORK:
+    INITIAL_PLACEMENT:
+      SHOT_TYPE: Medium Shot
+      ANGLE: Eye_Level
+      FRAMING: >-
+        Bryan is centered within the frame, capturing his expressions and
+        gestures clearly.
+    MOVEMENT:
+      TYPE: Static
+      PACE: None
+      EFFECT: Maintains focus on Bryan, emphasizing his dialogue and expressions.
+  DIALOGUE:
+    - BRYAN_STARBUCKS: >-
+        Hey, this product is great for both of you I'll chat with each of you
+        separately, okay?
+  ACTION:
+    DESCRIPTION: >-
+      Bryan stands in the park, engaging in a serious conversation with a
+      YouTuber about a product.
+    MOVEMENT: Static, with Bryan maintaining eye contact and a steady posture.
+  SET_SETTINGS:
+    LOCATION: E Woodin Ave with Trees
+    SURROUNDINGS:
+      - Quaint shops
+      - Cafes
+      - Vibrant colors of the surroundings
+    LIGHTING: Natural daylight
+  BACKGROUND_NOISE: Gentle rustling of leaves and distant chatter from park visitors.
+  CAMERA_TRANSITION: Cut in and out of the shot, maintaining a seamless flow.
+  LIGHTING_ATMOSPHERE: >-
+    The scene is lit with natural daylight, casting soft shadows and
+    highlighting Bryan's features. The lighting is even, with a slight warm tone
+    to enhance the welcoming atmosphere.
+  SOUND:
+    AMBIENT: >-
+      Soft ambient sounds of the park, including distant chatter and birds
+      chirping.
+    FOLEY: Subtle sounds of clothing rustling as Bryan gestures.
+    WILDLIFE: Occasional bird calls in the background.
+COMBINED_MEGA_PROMPT: >-
+  In a serene park setting, Bryan Starbucks, a charismatic and confident CEO,
+  stands engaged in a serious conversation with a YouTuber about a product. The
+  atmosphere is professional yet relaxed, with Bryan exuding a sense of
+  authority and warmth. The scene is rendered with cinematic realism, capturing
+  the essence of a high-budget drama. Natural lighting bathes the park, casting
+  soft shadows and highlighting Bryan's features, while the shallow depth of
+  field and high-fidelity textures mimic the look of a live-action film.
+
+
+  The camera is positioned for a medium shot at eye level, with Bryan centered
+  within the frame. The static camera maintains focus on him, emphasizing his
+  dialogue and expressions. Bryan, a man in his 40s, stands at 5'8'' with a
+  well-groomed mustache and beard framing a strong jawline. His medium-length,
+  neatly styled brown hair, parted slightly off-center, complements his striking
+  blue eyes and fair skin with a healthy glow. Dressed in a smart-casual outfit,
+  he wears a tailored navy blazer over a crisp white shirt, paired with dark
+  denim jeans and polished brown leather loafers. A sleek silver watch and
+  stylish glasses complete his professional yet approachable look.
+
+
+  Bryan's voice is smooth, confident, and warm, with a subtle gravelly undertone
+  that reflects his experience and charisma. He speaks with authority,
+  maintaining eye contact and a steady posture, conveying his message with
+  confidence. The park's vibrant surroundings include quaint shops and cafes,
+  with the gentle rustling of leaves and distant chatter from park visitors
+  adding to the ambiance. Soft ambient sounds of the park, including distant
+  chatter and birds chirping, fill the air, while subtle sounds of clothing
+  rustling accompany Bryan's gestures.
+
+
+  The lighting is even, with a slight warm tone enhancing the welcoming
+  atmosphere. The vibrant colors of the surroundings add to the scene's
+  liveliness, creating a dynamic setting. As Bryan speaks, his gestures and body
+  language reflect his words, reinforcing his message with confidence and
+  authority. The scene transitions seamlessly with cuts in and out, maintaining
+  a smooth flow. No subtitles.

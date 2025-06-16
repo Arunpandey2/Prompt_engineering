@@ -1,0 +1,193 @@
+TITLE: BRYAN INTRO SETS. 1ST IN STORES DOWNTOWN (Part 2)
+PUBLISHED: false
+PLACE: Journalist (Newspaper Building)
+ASPECT_RATIO: Aspect_16_9
+TRANSITION_IN: Cut
+TRANSITION_OUT: Cut
+MIN_DURATION: 2
+SET_TYPE: Interior
+TRANSFORMATION_STRENGTH: 0.5
+SHOT_CAST:
+  - IS_PRIMARY: true
+    IS_SEATED: false
+    IS_VISIBLE: true
+    IS_OVER_THEIR_SHOULDER: false
+    CHARACTER_PLACEMENT: Far_Left
+    ROTATION: '0'
+    AUDIO_START_DURATION: 0
+    AUDIO_URL: >-
+      production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/c28d34ee-1a5d-43e7-ae57-bba3f0a0ce1b/85ffe062-301c-4805-b28c-b85c3f668940/audio_85ffe062-301c-4805-b28c-b85c3f668940.mp3
+    AUDIO_DURATION: 3.526530612244898
+    DIALOGUE: You'll often use the sets included in the product for free.
+    ANIMATION_START_DURATION: 0
+    ANIMATION_DURATION: 0
+    CAST:
+      NAME: Bryan Starbucks
+      AGE: 40
+      OVERVIEW: Imagination is limitless when technology and creativity unite.
+      PROFESSION: Founder & CEO of DreamStage
+      ROLE: PROTAGONIST
+      APPEARANCE: >-
+        a man in his 40s, 5'8'' tall, with a charismatic presence. His face
+        features a well-groomed mustache and beard, framing a strong jawline. He
+        has medium-length, neatly styled brown hair with a slight wave, parted
+        slightly off-center. His eyes are a striking blue, and his skin tone is
+        fair with a healthy, natural glow. His voice is smooth, confident, warm,
+        with a subtle gravelly undertone.
+      VOICE_TONE: >-
+        Smooth, confident, and warm with a subtle gravelly undertone. Reflects
+        experience, charisma, and calm authority.
+      NOTES: "Mentor: A seasoned filmmaker who initially doubts Bryan's vision but becomes a key supporter.\r\nRival: A traditional filmmaker who challenges Bryan's approach, representing the old guard."
+NEEDED_LOCATION:
+  TITLE: BRYAN INTRO SETS. 1ST IN STORES DOWNTOWN (Part 2) - Set
+  TYPE: TwoDSet
+CINEMATOGRAPHY:
+  RENDER_TYPE: GENERATIVE_V2V
+  RENDER_ALL_OTHERS: GENERATIVE_AI_LIMITED
+  SHOT_TYPE: Close_Up_Shot
+  CAMERA_ANGLE: Eye_Level
+  CAMERA_TARGET_TO: ONE_CHARACTER_CENTERED
+  CAMERA_MOVEMENT: Fixed
+MEGA_PROMPT_PIECES:
+  SCENE_OVERVIEW:
+    OVERALL_DESCRIPTION: >-
+      Bryan Starbucks, the charismatic founder and CEO of DreamStage, is in a
+      newspaper building, discussing the use of sets included in a product. The
+      atmosphere is professional and focused, with Bryan as the central figure.
+    TONE: Confident and informative
+    STYLE: Narrative with a focus on character-driven storytelling
+  VISUAL_STYLE:
+    REAL_LIFE: >-
+      Render the scene with cinematic realism, using natural lighting, shallow
+      depth of field, and high-fidelity textures to mimic live-action film.
+      Focus on lifelike character proportions, realistic environments, and
+      subtle emotional nuance, reminiscent of high-budget drama or action films.
+  CHARACTERS:
+    - NAME: Bryan Starbucks
+      ROLE: PROTAGONIST
+      GENDER: MALE
+      AGE_GROUP: ADULT
+      AGE: 25
+      CHARACTER_DIALOGUE: You'll often use the sets included in the product for free.
+      CHARACTER_ROTATION: 0
+      ACTION: >-
+        Bryan stands confidently, engaging with the audience with a smooth and
+        warm tone.
+      PHYSICAL_DESCRIPTION: >-
+        a man in his 40s, 5'8'' tall, with a charismatic presence. His face
+        features a well-groomed mustache and beard, framing a strong jawline. He
+        has medium-length, neatly styled brown hair with a slight wave, parted
+        slightly off-center. His eyes are a striking blue, and his skin tone is
+        fair with a healthy, natural glow. His voice is smooth, confident, warm,
+        with a subtle gravelly undertone.
+      VOICE_TONE: >-
+        Smooth, confident, and warm with a subtle gravelly undertone. Reflects
+        experience, charisma, and calm authority.
+      ORIENTATION:
+        SCREEN_POSITION: Far_Left
+        CHARACTER_ROTATION: '0'
+        BODY: Facing forward, oriented at 0 degrees
+        HEAD: Looking straight ahead, oriented at 0 degrees
+        GAZE: Directly at the audience, oriented at 0 degrees
+      CLOTHING:
+        DESCRIPTION: >-
+          Bryan is dressed in a tailored, dark navy suit with a crisp white
+          dress shirt underneath. The suit is made of high-quality wool, giving
+          it a sleek and professional appearance. He wears a subtle, patterned
+          tie in shades of blue that complements his striking blue eyes. His
+          shoes are polished black leather oxfords, adding to his sophisticated
+          look. A silver watch adorns his left wrist, and a pocket square peeks
+          out from his suit jacket, adding a touch of elegance.
+        UPPER_BODY:
+          - Tailored dark navy suit jacket
+          - Crisp white dress shirt
+          - Patterned blue tie
+          - Pocket square
+        LOWER_BODY:
+          - Dark navy suit trousers
+        FOOTWEAR:
+          - Polished black leather oxfords
+      FACE:
+        SKIN: Fair with a healthy, natural glow
+        HAIR: >-
+          Medium-length, neatly styled brown hair with a slight wave, parted
+          slightly off-center
+  CAMERA_WORK:
+    INITIAL_PLACEMENT:
+      SHOT_TYPE: Close Up Shot
+      ANGLE: Eye_Level
+      FRAMING: Bryan is centered in the frame, occupying the far left position
+    MOVEMENT:
+      TYPE: Static
+      PACE: None
+      EFFECT: >-
+        Focuses on Bryan's expression and dialogue, creating an intimate
+        connection with the audience
+  DIALOGUE:
+    - BRYAN_STARBUCKS: You'll often use the sets included in the product for free.
+  ACTION:
+    DESCRIPTION: >-
+      Bryan stands confidently in the newspaper building, engaging with the
+      audience.
+    MOVEMENT: Static, with a focus on Bryan's presence and dialogue
+  SET_SETTINGS:
+    LOCATION: Journalist (Newspaper Building)
+    BUILDING_TYPE: Interior
+    SURROUNDINGS:
+      - Desks with computers
+      - Stacks of newspapers
+      - Office decor
+    LIGHTING: Bright, even lighting typical of an office environment
+  AI_WONDER_OBJECT: {}
+  BACKGROUND_NOISE: >-
+    The ambient sound of a bustling office, with faint typing and phone ringing
+    in the background.
+  CAMERA_TRANSITION: Cut in and out of the shot, maintaining a seamless flow
+  LIGHTING_ATMOSPHERE: >-
+    The scene is lit with bright, even office lighting, casting soft shadows and
+    highlighting Bryan's features. The color grading is neutral, enhancing the
+    professional and realistic tone of the scene.
+  SOUND:
+    AMBIENT: Office ambiance with faint typing and phone ringing
+    FOLEY: None
+COMBINED_MEGA_PROMPT: >-
+  In a bustling newspaper building, the charismatic Bryan Starbucks, founder and
+  CEO of DreamStage, stands as the central figure in a scene that exudes
+  professionalism and focus. The atmosphere is confident and informative, with a
+  narrative style that emphasizes character-driven storytelling. Rendered with
+  cinematic realism, the scene captures the lifelike proportions and subtle
+  emotional nuances of a high-budget drama. Natural lighting and a shallow depth
+  of field enhance the high-fidelity textures, mimicking the look of a
+  live-action film.
+
+
+  The camera is positioned for a close-up shot at eye level, with Bryan centered
+  in the frame, occupying the far left position. The camera remains static,
+  focusing intently on Bryan's expression and dialogue, creating an intimate
+  connection with the audience. Bryan, a man in his 40s, stands confidently,
+  engaging with the audience with a smooth and warm tone. His well-groomed
+  mustache and beard frame a strong jawline, while his medium-length, neatly
+  styled brown hair, parted slightly off-center, complements his striking blue
+  eyes. His fair skin has a healthy, natural glow, and his voice carries a
+  smooth, confident, and warm tone with a subtle gravelly undertone, reflecting
+  his experience, charisma, and calm authority.
+
+
+  Dressed in a tailored dark navy suit with a crisp white dress shirt, Bryan's
+  appearance is sleek and professional. A subtle, patterned tie in shades of
+  blue complements his eyes, while polished black leather oxfords and a silver
+  watch add to his sophisticated look. A pocket square peeks out from his suit
+  jacket, adding a touch of elegance. The background setting is an interior of a
+  newspaper building, filled with desks, computers, stacks of newspapers, and
+  typical office decor. Bright, even lighting typical of an office environment
+  casts soft shadows and highlights Bryan's features, with neutral color grading
+  enhancing the professional and realistic tone.
+
+
+  The ambient sound of a bustling office fills the scene, with faint typing and
+  phone ringing in the background, adding to the realism. Bryan confidently
+  addresses the audience, stating that they will often use the sets included in
+  the product for free. The scene maintains a seamless flow with camera
+  transitions cutting in and out, focusing on Bryan's presence and dialogue. The
+  color palette is neutral, enhancing the professional tone of the scene. No
+  subtitles.

@@ -1,0 +1,192 @@
+TITLE: BRYAN INTRO SETS. 1ST IN STORES DOWNTOWN (Part 4)
+PUBLISHED: false
+PLACE: Journalist (Newspaper Building)
+ASPECT_RATIO: Aspect_16_9
+MIN_DURATION: 2
+SET_TYPE: Interior
+TRANSFORMATION_STRENGTH: 0.5
+SHOT_CAST:
+  - IS_PRIMARY: true
+    IS_SEATED: false
+    IS_VISIBLE: true
+    IS_OVER_THEIR_SHOULDER: false
+    CHARACTER_PLACEMENT: Far_Left
+    ROTATION: '0'
+    AUDIO_START_DURATION: 0
+    AUDIO_URL: >-
+      production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/e088ca0a-dd1d-47c1-882a-b09a048a1a97/4edb8e41-af80-4ed1-bc2c-38042e8a2759/audio_4edb8e41-af80-4ed1-bc2c-38042e8a2759.mp3
+    AUDIO_DURATION: 5.746938775510204
+    DIALOGUE: >-
+      If you ever want more powerful 3D sets, you can browse the ones we include
+      for free.
+    ANIMATION_START_DURATION: 0
+    ANIMATION_DURATION: 0
+    CAST:
+      NAME: Bryan Starbucks
+      AGE: 40
+      OVERVIEW: Imagination is limitless when technology and creativity unite.
+      PROFESSION: Founder & CEO of DreamStage
+      ROLE: PROTAGONIST
+      APPEARANCE: >-
+        a man in his 40s, 5'8'' tall, with a charismatic presence. His face
+        features a well-groomed mustache and beard, framing a strong jawline. He
+        has medium-length, neatly styled brown hair with a slight wave, parted
+        slightly off-center. His eyes are a striking blue, and his skin tone is
+        fair with a healthy, natural glow. His voice is smooth, confident, warm,
+        with a subtle gravelly undertone.
+      VOICE_TONE: >-
+        Smooth, confident, and warm with a subtle gravelly undertone. Reflects
+        experience, charisma, and calm authority.
+      NOTES: "Mentor: A seasoned filmmaker who initially doubts Bryan's vision but becomes a key supporter.\r\nRival: A traditional filmmaker who challenges Bryan's approach, representing the old guard."
+NEEDED_LOCATION: {}
+CINEMATOGRAPHY:
+  RENDER_TYPE: DEFAULT
+  RENDER_ALL_OTHERS: BLENDER
+  SHOT_TYPE: Close_Up_Shot
+  CAMERA_ANGLE: Eye_Level
+  CAMERA_TARGET_TO: ONE_CHARACTER_CENTERED
+  CAMERA_MOVEMENT: Fixed
+MEGA_PROMPT_PIECES:
+  SCENE_OVERVIEW:
+    OVERALL_DESCRIPTION: >-
+      Bryan Starbucks, the charismatic founder and CEO of DreamStage, is in his
+      office at the newspaper building, discussing the potential of 3D sets with
+      an unseen colleague. The atmosphere is professional yet creative,
+      reflecting Bryan's innovative spirit.
+    TONE: Inspirational and motivational, with a touch of professionalism.
+    STYLE: A blend of modern corporate and creative innovation.
+  VISUAL_STYLE:
+    REAL_LIFE: >-
+      Render the scene with cinematic realism, using natural lighting, shallow
+      depth of field, and high-fidelity textures to mimic live-action film.
+      Focus on lifelike character proportions, realistic environments, and
+      subtle emotional nuance, reminiscent of high-budget drama or action films.
+  CHARACTERS:
+    - NAME: Bryan Starbucks
+      ROLE: PROTAGONIST
+      GENDER: MALE
+      AGE_GROUP: ADULT
+      AGE: 25
+      CHARACTER_DIALOGUE: >-
+        If you ever want more powerful 3D sets, you can browse the ones we
+        include for free.
+      CHARACTER_ROTATION: 0
+      ACTION: >-
+        Bryan stands confidently, gesturing slightly with his hands as he
+        speaks, emphasizing his points with subtle movements.
+      PHYSICAL_DESCRIPTION: >-
+        a man in his 40s, 5'8'' tall, with a charismatic presence. His face
+        features a well-groomed mustache and beard, framing a strong jawline. He
+        has medium-length, neatly styled brown hair with a slight wave, parted
+        slightly off-center. His eyes are a striking blue, and his skin tone is
+        fair with a healthy, natural glow. His voice is smooth, confident, warm,
+        with a subtle gravelly undertone.
+      VOICE_TONE: >-
+        Smooth, confident, and warm with a subtle gravelly undertone. Reflects
+        experience, charisma, and calm authority.
+      ORIENTATION:
+        SCREEN_POSITION: Far_Left
+        CHARACTER_ROTATION: '0'
+        BODY: Facing forward, body oriented at 0 degrees towards the camera.
+        HEAD: Looking directly at the camera, head oriented at 0 degrees.
+        GAZE: Direct gaze at the camera, gaze oriented at 0 degrees.
+      CLOTHING:
+        DESCRIPTION: >-
+          Bryan is dressed in a smart-casual outfit that reflects his innovative
+          yet professional persona. He wears a tailored navy blazer over a crisp
+          white shirt, paired with dark denim jeans. His shoes are polished
+          brown leather loafers, and he accessorizes with a sleek silver watch
+          and a subtle pocket square in his blazer.
+        UPPER_BODY:
+          - Tailored navy blazer
+          - Crisp white shirt
+        LOWER_BODY:
+          - Dark denim jeans
+        FOOTWEAR:
+          - Polished brown leather loafers
+      FACE:
+        SKIN: Fair with a healthy, natural glow
+        HAIR: Medium-length, neatly styled brown hair with a slight wave
+  CAMERA_WORK:
+    INITIAL_PLACEMENT:
+      SHOT_TYPE: Close Up Shot
+      ANGLE: Eye_Level
+      FRAMING: Bryan is centered in the frame, occupying the far left.
+    MOVEMENT:
+      TYPE: Static
+      EFFECT: Focuses on Bryan's expressions and gestures
+  DIALOGUE:
+    - BRYAN_STARBUCKS: >-
+        If you ever want more powerful 3D sets, you can browse the ones we
+        include for free.
+  ACTION:
+    DESCRIPTION: >-
+      Bryan stands in his office, speaking confidently about the potential of 3D
+      sets, gesturing slightly to emphasize his points.
+    MOVEMENT: Static, with subtle hand gestures
+  SET_SETTINGS:
+    LOCATION: Journalist (Newspaper Building)
+    BUILDING_TYPE: Office
+    SURROUNDINGS:
+      - Desks
+      - Computers
+      - Office supplies
+    LIGHTING: Natural office lighting with a warm tone
+  BACKGROUND_NOISE: The soft hum of computers and distant chatter of office workers.
+  CAMERA_TRANSITION: >-
+    The camera smoothly transitions in from a wider shot to focus on Bryan's
+    expressions and gestures.
+  LIGHTING_ATMOSPHERE: >-
+    The scene is lit with natural office lighting, providing a warm and inviting
+    atmosphere. Soft shadows are cast, enhancing the depth of the scene. The
+    color grading is warm, complementing Bryan's charismatic presence.
+  SOUND:
+    AMBIENT: >-
+      The ambient sound of a bustling office, with the soft hum of computers and
+      distant chatter.
+    FOLEY: >-
+      The subtle rustle of clothing as Bryan gestures, and the soft creak of his
+      chair.
+COMBINED_MEGA_PROMPT: >-
+  In a cinematic scene set within the bustling confines of a newspaper office,
+  Bryan Starbucks, the charismatic founder and CEO of DreamStage, stands
+  confidently in his workspace. The atmosphere is a harmonious blend of modern
+  corporate professionalism and creative innovation, reflecting Bryan's
+  visionary spirit. Rendered with cinematic realism, the scene captures the
+  lifelike nuances of a high-budget drama, with natural lighting and a shallow
+  depth of field that brings every detail into sharp focus.
+
+
+  The camera is positioned for a close-up shot at eye level, centering Bryan in
+  the frame on the far left. It remains static, allowing the viewer to focus
+  intently on Bryan's expressions and gestures as he speaks. His presence is
+  commanding yet approachable, a man in his 40s with a well-groomed mustache and
+  beard framing a strong jawline. His medium-length brown hair, styled with a
+  slight wave, complements his striking blue eyes and fair skin, which glows
+  with a healthy, natural radiance. Dressed in a smart-casual ensemble, Bryan
+  wears a tailored navy blazer over a crisp white shirt, paired with dark denim
+  jeans and polished brown leather loafers. A sleek silver watch and a subtle
+  pocket square add a touch of sophistication to his look.
+
+
+  As Bryan speaks, his voice is smooth, confident, and warm, with a subtle
+  gravelly undertone that conveys experience and calm authority. He gestures
+  slightly with his hands, emphasizing his points with subtle movements that
+  reflect his passion for innovation. The dialogue is clear and purposeful, as
+  he discusses the potential of 3D sets, inviting his unseen colleague to
+  explore the powerful options available.
+
+
+  The office setting is alive with the ambient sound of a bustling workplace,
+  the soft hum of computers, and the distant chatter of office workers creating
+  a dynamic backdrop. Natural office lighting casts a warm and inviting glow,
+  with soft shadows enhancing the depth of the scene. The color grading is warm,
+  complementing Bryan's charismatic presence and the overall inspirational tone
+  of the moment.
+
+
+  In the background, the environment is subtly animated, with the gentle rustle
+  of clothing as Bryan gestures and the soft creak of his chair adding to the
+  realism. The camera smoothly transitions from a wider shot to focus on Bryan's
+  expressions and gestures, drawing the viewer into the heart of the
+  conversation. No subtitles.

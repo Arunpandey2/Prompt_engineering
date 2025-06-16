@@ -1,0 +1,36 @@
+character:
+  name: Kevin
+  age: 125
+  height: "5'9\""
+  build: "Lean and muscular"
+  presence: "Sharp and professional with composed confidence"
+
+  facial_features:
+    face_shape: "Broad forehead with balanced, strong features"
+    facial_hair:
+      type: "Goatee"
+      style: "Well-groomed, clean lines"
+    hair:
+      color: "Black"
+      length: "Short"
+      texture: "Tightly coiled"
+      style: "Neatly styled"
+    eyes:
+      color: "Dark brown"
+      expression: "Focused and discerning"
+    eyebrows: "Clean-cut and slightly arched"
+    skin:
+      tone: "Deep brown"
+      complexion: "Smooth and healthy"
+
+  voice:
+    tone: "Even and professional"
+    texture: "Clear with a subtle depth"
+    cadence: "Deliberate and composed, with authoritative rhythm"
+
+  style:
+    attire: "Polished and practical (button-down shirts, tailored pants, clean footwear)"
+    color_palette: "Earth tones and dark neutrals"
+    accessories: "Minimal—occasionally wears a watch or simple ring"
+
+  role: SUPPORTING

@@ -1,0 +1,102 @@
+TITLE: Land In Chelan Town
+PUBLISHED: false
+PLACE: Park
+ASPECT_RATIO: Aspect_9_16
+TRANSITION_IN: Cut
+TRANSITION_OUT: Cut
+TIME: day
+MIN_DURATION: 2
+SET_TYPE: Exterior
+ADDITIONAL_DETAILS: {}
+NEEDED_LOCATION:
+  TITLE: E Woodin Ave with Cafes
+  DESCRIPTION: >-
+    The street is lined with quaint shops and cafes, vibrant with the colors of
+    the surroundings.
+  TYPE: TwoDSet
+CINEMATOGRAPHY:
+  RENDER_TYPE: DEFAULT
+  RENDER_ALL_OTHERS: GENERATIVE_AI_ADV
+  SHOT_TYPE: Medium_Close_Up_Shot
+  CAMERA_ANGLE: Eye_Level
+  CAMERA_TARGET_TO: ONE_CHARACTER_CENTERED
+  CAMERA_MOVEMENT: Fixed
+MEGA_PROMPT_PIECES:
+  SCENE_OVERVIEW:
+    OVERALL_DESCRIPTION: >-
+      A medium close-up shot of a character standing in the vibrant park of
+      Chelan Town, surrounded by quaint shops and cafes. The scene captures the
+      lively atmosphere of the day, with the character being the focal point.
+    TONE: Lively and vibrant
+    STYLE: Anime-inspired with a focus on dynamic and expressive visuals
+  VISUAL_STYLE:
+    REAL_LIFE: >-
+      Render the scene with cinematic realism, using natural lighting, shallow
+      depth of field, and high-fidelity textures to mimic live-action film.
+      Focus on lifelike character proportions, realistic environments, and
+      subtle emotional nuance, reminiscent of high-budget drama or action films.
+  CAMERA_WORK:
+    INITIAL_PLACEMENT:
+      SHOT_TYPE: Medium Close Up Shot
+      ANGLE: Eye level
+      FRAMING: Character centered in the frame
+    MOVEMENT:
+      TYPE: Static
+      PACE: None
+      EFFECT: Focuses attention on the character and the vibrant background
+  ACTION:
+    DESCRIPTION: >-
+      A character stands in the park, surrounded by the lively ambiance of
+      Chelan Town.
+    MOVEMENT: The character remains stationary, absorbing the vibrant surroundings.
+  SET_SETTINGS:
+    LOCATION: E Woodin Ave with Cafes
+    BUILDING_TYPE: Shops and cafes
+    SURROUNDINGS:
+      - Quaint shops
+      - Cafes
+      - Vibrant colors
+    LIGHTING: Natural daylight
+  BACKGROUND_NOISE: The sound of people chatting, distant traffic, and birds chirping.
+  CAMERA_TRANSITION: Cut in and cut out
+  LIGHTING_ATMOSPHERE: >-
+    The scene is lit by natural daylight, casting soft shadows and highlighting
+    the vibrant colors of the surroundings. The lighting enhances the lively and
+    cheerful mood of the scene.
+  SOUND:
+    AMBIENT: >-
+      The ambient sound of a bustling town with people chatting and birds
+      chirping.
+    WILDLIFE: Birds chirping
+COMBINED_MEGA_PROMPT: >-
+  In a vibrant park nestled within Chelan Town, a medium close-up shot captures
+  the essence of a lively day. The scene unfolds with a character standing
+  amidst the bustling ambiance of E Woodin Ave, where quaint shops and charming
+  cafes line the streets. The atmosphere is alive with the chatter of people,
+  the distant hum of traffic, and the cheerful chirping of birds, creating a
+  symphony of everyday life. The camera remains static, centered at eye level,
+  focusing intently on the character who stands as the focal point, absorbing
+  the vibrant surroundings.
+
+
+  Rendered with cinematic realism, the scene boasts natural lighting that casts
+  soft shadows, enhancing the vivid colors of the environment. The high-fidelity
+  textures and lifelike character proportions evoke the feel of a high-budget
+  drama, with subtle emotional nuances that bring the anime-inspired visuals to
+  life. The natural daylight bathes the scene, highlighting the cheerful and
+  lively mood that permeates the air.
+
+
+  The character remains stationary, a silent observer of the bustling town, as
+  the camera captures the dynamic and expressive visuals that define the
+  anime-inspired style. The vibrant colors of the shops and cafes provide a
+  picturesque backdrop, their hues accentuated by the soft daylight. The ambient
+  sounds of the town, with people chatting and birds singing, fill the air,
+  adding depth to the scene's lively atmosphere.
+
+
+  As the scene transitions with a simple cut in and cut out, the focus remains
+  on the character, who stands amidst the vibrant life of Chelan Town, a
+  testament to the beauty of everyday moments. The color palette is a
+  celebration of vibrant hues, with the natural daylight enhancing the lively
+  and cheerful mood. No subtitles.
