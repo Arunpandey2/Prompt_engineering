@@ -1,0 +1,35 @@
+A close-up shot of Bryan, a man in his 40s standing 5'8", with a charismatic presence. His face features a well-groomed mustache and beard, framing a strong jawline. He has medium-length, neatly styled brown hair with a slight wave, parted slightly off-center. His eyes are a striking blue, and his skin tone is fair with a healthy, natural glow. Bryan stands confidently in a newspaper building, wearing a tailored dark blue suit with a crisp white shirt underneath. His tie is a subtle shade of grey, and he wears polished black leather shoes. He accessorizes with a classic wristwatch, adding a hint of personal style.
+
+Setting
+
+The scene takes place in a newspaper building interior, surrounded by desks with computers, stacks of newspapers, and office chairs. The environment is professional and organized, with natural lighting from large windows creating a bright and open atmosphere. The background is subtly blurred, keeping the focus on Bryan's confident presence.
+
+Camera
+
+The camera maintains a static close-up shot at eye level, positioned to capture Bryan at the far left of the frame. The composition emphasizes his facial expressions and professional demeanor, with a shallow depth of field that softly blurs the office environment.
+
+Lighting
+
+Natural lighting from large windows bathes the scene, creating a warm and inviting atmosphere. The lighting highlights Bryan's features, casting soft shadows that add depth to his expressions. The color grading is warm, enhancing the inspirational tone of the scene.
+
+Dialogue (5.75s)
+
+Bryan (smooth, confident voice with a subtle gravelly undertone):
+"If you ever want more powerful 3D sets, you can browse the ones we include for free."
+
+Audio
+• Primary: Clear dialogue (starts at 0s)
+• Ambient: Office ambiance with faint typing and phone ringing
+• Foley: Subtle rustling of clothing as Bryan gestures
+
+Style
+
+Cinematic realism with high-fidelity textures and professional lighting. The scene emphasizes Bryan's role as an innovative leader while maintaining a documentary-style authenticity.
+
+Negative Prompt
+
+Text overlays, watermarks, blur, distortion, grain, unintended background figures, oversaturation, underexposure.
+
+Technical
+
+16:9 aspect ratio, 2s duration, Transformation Strength: 1 

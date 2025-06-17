@@ -1,0 +1,35 @@
+A close-up shot of Kevin, a 35-year-old Black man with a lean, muscular frame and a broad forehead. Standing at 5'9", he features short, neatly styled hair and a well-groomed goatee. He exudes a sharp, professional presence, carrying himself with composed confidence and understated strength. Kevin stands in a newspaper building, wearing a tailored navy blue blazer over a crisp white dress shirt, paired with slim-fit navy blue trousers. His polished black leather shoes and accessories - a sleek black belt and silver wristwatch - complete his professional ensemble.
+
+Setting
+
+The scene takes place in a newspaper building, with a professional and slightly vintage atmosphere. The environment is well-lit and organized, with the subtle hum of a working newsroom in the background. The background is subtly blurred, keeping the focus on Kevin's confident presence.
+
+Camera
+
+The camera maintains a static close-up shot at eye level, positioned to capture Kevin's facial expressions and professional demeanor. The composition emphasizes his reflective delivery, with a shallow depth of field that softly blurs the newspaper building environment.
+
+Lighting
+
+Professional lighting bathes the scene, creating a clear and focused atmosphere. The lighting is even and bright, with minimal shadows that add subtle dimension to the frame. The color grading is natural, enhancing the professional environment.
+
+Dialogue (6.82s)
+
+Kevin (warm and engaging voice):
+"When I'm in the coffee shop, I often meet the most interesting people I find people come here from very, very far away."
+
+Audio
+• Primary: Clear dialogue (starts at 0s)
+• Ambient: The subtle hum of a working newsroom
+• Foley: The gentle rustle of Kevin's clothing as he speaks
+
+Style
+
+Cinematic realism with high-fidelity textures and professional lighting. The scene emphasizes Kevin's role as a professional while maintaining a documentary-style authenticity.
+
+Negative Prompt
+
+Text overlays, watermarks, blur, distortion, grain, unintended background figures, oversaturation, underexposure.
+
+Technical
+
+16:9 aspect ratio, 2s duration, Transformation Strength: 0.5 

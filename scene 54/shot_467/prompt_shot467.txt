@@ -1,0 +1,35 @@
+A medium close-up shot of Bryan, a man in his 40s standing 5'8", with a commanding presence. He has a strong jawline, a neatly groomed beard, wavy brown hair, and striking blue eyes. Bryan stands confidently at the far left of the frame in a park setting, wearing a tailored navy blazer over a crisp white shirt, paired with dark jeans and brown loafers. The scene is framed to emphasize his professional yet approachable demeanor.
+
+Setting
+
+The scene takes place in a park setting with natural daylight creating a warm and inviting atmosphere. The lighting highlights Bryan's features while maintaining a professional environment. The background is subtly blurred, keeping the focus on Bryan's confident presence.
+
+Camera
+
+The camera maintains a static medium close-up shot at eye level, positioned to capture Bryan at the far left of the frame. The composition emphasizes his facial expressions and professional demeanor, with a shallow depth of field that softly blurs the background.
+
+Lighting
+
+Natural daylight bathes the scene, creating a warm and inviting atmosphere. The lighting enhances Bryan's features while maintaining a professional look. Soft shadows add dimension to the frame, and the overall color grading is natural and vibrant.
+
+Dialogue (7.29s)
+
+Bryan (smooth, warm voice with a gravelly undertone):
+"Before we dive into this, I want to mention that most people making movies and videos won't need this section."
+
+Audio
+• Primary: Clear dialogue (starts at 0s)
+• Ambient: Subtle park atmosphere
+• Foley: None
+
+Style
+
+Documentary realism blended with cinematic polish. High-fidelity textures and natural lighting create an immersive, professional scene that emphasizes Bryan's authoritative presence.
+
+Negative Prompt
+
+Text overlays, watermarks, blur, distortion, grain, unintended background figures, oversaturation, underexposure.
+
+Technical
+
+9:16 aspect ratio, 2s duration, Transformation Strength: 1 

@@ -1,0 +1,35 @@
+A cinematic medium shot of Bryan, a man in his 40s standing 5'8", with a commanding presence. He has a strong jawline, a neatly groomed beard, wavy brown hair, and striking blue eyes. Bryan walks energetically down vibrant E Woodin Ave in Chelan. He wears a tailored navy blazer over a crisp white shirt, paired with dark jeans and brown loafers. Quaint storefronts and cozy outdoor cafés line the street, with a few relaxed pedestrians and bicycles passing by, contributing to the small-town charm.
+
+Setting
+
+The scene unfolds during golden hour, with warm, angled sunlight illuminating Bryan and the surrounding buildings. The soft glow enhances textures on the façades, casting long, inviting shadows across the pavement. The overall mood is lively yet relaxed, capturing the charm of a vibrant small-town street next to Lake Chelan.
+
+Camera
+
+The camera tracks smoothly at eye level alongside Bryan, maintaining a steady glide as he moves. The shot frames him from the waist up, emphasizing both his expressions and the vivid environment. A shallow depth of field softly blurs the bustling background, keeping the focus on Bryan.
+
+Lighting
+
+Natural golden-hour sunlight bathes the scene. Warm highlights enhance Bryan's skin tone and the textures of the buildings, while the rich contrast brings depth to his navy blazer. Soft, angled shadows add dimension throughout the frame.
+
+Dialogue (7.76s)
+
+Bryan (smooth, warm voice with a gravelly undertone):
+"Let's land down there on that street between the stores. We're now in the city of Chelan, right next to Lake Chelan."
+
+Audio
+• Primary: Clear dialogue (starts at 0s)
+• Ambient: Street chatter, distant bicycle bells
+• Foley: Subtle footsteps on pavement
+
+Style
+
+Documentary realism blended with cinematic polish. High-fidelity textures, vibrant colors, and fluid motion create an immersive, polished scene.
+
+Negative Prompt
+
+Text overlays, watermarks, blur, distortion, grain, unintended background figures, oversaturation, underexposure.
+
+Technical
+
+9:16 aspect ratio, 8s duration, Transformation Strength: 1 

@@ -1,0 +1,51 @@
+TITLE: >-
+  CHELAN CAMERA SHIFTS TO SHOW E WOODIN AVE STRETCHING EAST, AS ALIENS EXIT
+  FRAME. MATCHES DIALOGUE. (Part 2)
+PUBLISHED: false
+PLACE: Journalist (Newspaper Building)
+ASPECT_RATIO: Aspect_16_9
+MIN_DURATION: 2
+SET_TYPE: Interior
+TRANSFORMATION_STRENGTH: 0.5
+SHOT_CAST:
+  - IS_PRIMARY: true
+    IS_SEATED: false
+    IS_VISIBLE: true
+    IS_OVER_THEIR_SHOULDER: false
+    CHARACTER_PLACEMENT: Far_Left
+    ROTATION: '0'
+    AUDIO_START_DURATION: 0
+    AUDIO_URL: >-
+      production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/04976f0d-bbb4-4614-a430-e8178515e85a/cae56601-f87a-4875-b1e0-28f8546fcaad/audio_cae56601-f87a-4875-b1e0-28f8546fcaad.mp3
+    AUDIO_DURATION: 7.366530612244898
+    DIALOGUE: >-
+      We bridge storytelling with visuals to achieve the goals of the film or
+      ad, using our product with Blender.
+    ANIMATION_START_DURATION: 0
+    ANIMATION_DURATION: 0
+    CAST:
+      NAME: Bryan Starbucks
+      AGE: 40
+      OVERVIEW: Imagination is limitless when technology and creativity unite.
+      PROFESSION: Founder & CEO of DreamStage
+      ROLE: PROTAGONIST
+      APPEARANCE: >-
+        a man in his 40s, 5'8'' tall, with a charismatic presence. His face
+        features a well-groomed mustache and beard, framing a strong jawline. He
+        has medium-length, neatly styled brown hair with a slight wave, parted
+        slightly off-center. His eyes are a striking blue, and his skin tone is
+        fair with a healthy, natural glow. His voice is smooth, confident, warm,
+        with a subtle gravelly undertone.
+      VOICE_TONE: >-
+        Smooth, confident, and warm with a subtle gravelly undertone. Reflects
+        experience, charisma, and calm authority.
+      NOTES: "Mentor: A seasoned filmmaker who initially doubts Bryan's vision but becomes a key supporter.\r\nRival: A traditional filmmaker who challenges Bryan's approach, representing the old guard."
+SHOT_SET: {}
+CINEMATOGRAPHY:
+  RENDER_TYPE: GENERATIVE_V2V
+  RENDER_ALL_OTHERS: BLENDER
+  SHOT_TYPE: Close_Up_Shot
+  CAMERA_ANGLE: Eye_Level
+  CAMERA_TARGET_TO: ONE_CHARACTER_CENTERED
+  CAMERA_MOVEMENT: Fixed
+COMBINED_MEGA_PROMPT: "A close-up shot of Bryan Starbucks (Bryan is a man in his 40s, 5'8'' tall, with a charismatic presence. His face features a well-groomed mustache and beard, framing a strong jawline. He has medium-length, neatly styled brown hair with a slight wave, parted slightly off-center. His eyes are a striking blue, and his skin tone is fair with a healthy, natural glow. He is dressed in a smart-casual outfit consisting of a tailored navy blazer over a crisp white shirt, paired with dark denim jeans, polished brown leather loafers, and accessorized with a sleek silver watch and stylish glasses.) Walking down the center of E Woodin Ave, with Kevin on his right. The camera is positioned on the south side of the street, pointing North-West, tracking Bryan as he catches up to Kevin. Natural daylight creates a clear and vibrant atmosphere, with soft shadows highlighting the characters' features.\r\n\r\nAudio Dialogue: \"This setup is called Exterior-on-Rails. Our A.I. brings stories to life — no Blender needed, it runs server-side.\"\r\n\r\nStyle: Cinematic realism, lifelike textures, shallow depth of field, high-fidelity detail, professional documentary look.\r\n\r\nCamera: Close-up shot, eye-level, tracking movement, focus on Bryan's delivery.\r\n\r\nLighting: Natural daylight, clear and vibrant, soft shadows highlighting features.\r\n\r\nMood: Professional, innovative, casual camaraderie."

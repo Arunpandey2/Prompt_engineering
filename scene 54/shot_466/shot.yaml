@@ -1,0 +1,171 @@
+TITLE: LAND IN CHELAN (TOWN)
+PUBLISHED: false
+PLACE: Park
+AUDIO_DURATION: 34.351020408163265
+ASPECT_RATIO: Aspect_9_16
+TRANSITION_IN: Cut
+TRANSITION_OUT: Cut
+TIME: day
+MIN_DURATION: 8
+NEGATIVE_PROMPT: >-
+  text overlays, watermarks, visual clutter, extraneous humans, artificial
+  effects, blur, low quality, distortion, oversaturation, underexposure, grain,
+  pixelation.
+SET_TYPE: Exterior
+TRANSFORMATION_STRENGTH: 1
+ADDITIONAL_DETAILS: {}
+SHOT_CAST:
+  - IS_PRIMARY: true
+    IS_SEATED: false
+    IS_VISIBLE: true
+    IS_OVER_THEIR_SHOULDER: false
+    PARENTHETICAL: Enthusiastic
+    CHARACTER_PLACEMENT: Middle
+    ROTATION: '0'
+    AUDIO_START_DURATION: 0
+    AUDIO_URL: >-
+      production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/65ac96f3-3ac8-4f77-824b-c7af263711d1/d9a05351-8fa0-4a03-8bcc-1cbe8ca283f5/audio_d9a05351-8fa0-4a03-8bcc-1cbe8ca283f5.mp3
+    AUDIO_DURATION: 7.758367346938775
+    DIALOGUE: >-
+      Let's land down there on that street between the stores. We're now in the
+      city of Chelan, right next to Lake Chelan.
+    ANIMATION_TYPE: WALKING MOTION
+    ANIMATION_START_DURATION: 0
+    ANIMATION_DURATION: 5
+    CAST:
+      NAME: Bryan Starbucks
+      AGE: 40
+      OVERVIEW: Imagination is limitless when technology and creativity unite.
+      PROFESSION: Founder & CEO of DreamStage
+      ROLE: PROTAGONIST
+      APPEARANCE: >-
+        a man in his 40s, 5'8'' tall, with a charismatic presence. His face
+        features a well-groomed mustache and beard, framing a strong jawline. He
+        has medium-length, neatly styled brown hair with a slight wave, parted
+        slightly off-center. His eyes are a striking blue, and his skin tone is
+        fair with a healthy, natural glow. His voice is smooth, confident, warm,
+        with a subtle gravelly undertone.
+      VOICE_TONE: >-
+        Smooth, confident, and warm with a subtle gravelly undertone. Reflects
+        experience, charisma, and calm authority.
+      NOTES: "Mentor: A seasoned filmmaker who initially doubts Bryan's vision but becomes a key supporter.\r\nRival: A traditional filmmaker who challenges Bryan's approach, representing the old guard."
+SHOT_SET:
+  SET:
+    NAME: GOLDEN SET - Lake Chelan
+    DESCRIPTION: Lake Chelan with Path A, B and C.
+    LOCATION_TYPE: Exterior
+    SCOPE: GLOBAL
+CINEMATOGRAPHY:
+  RENDER_TYPE: GENERATIVE_V2V
+  RENDER_ALL_OTHERS: BLENDER
+  SHOT_TYPE: Medium_Shot
+  CAMERA_ANGLE: Eye_Level
+  CAMERA_TARGET_TO: ONE_CHARACTER_CENTERED
+  CAMERA_MOVEMENT: Tracking
+MEGA_PROMPT_PIECES:
+  SCENE_OVERVIEW:
+    OVERALL_DESCRIPTION: >-
+      Bryan Starbucks, the protagonist, is seen walking enthusiastically in the
+      middle of a vibrant street in Chelan, lined with quaint shops and cafes.
+      He is expressing his excitement about landing in the city next to Lake
+      Chelan.
+    TONE: Enthusiastic and adventurous
+    STYLE: Realistic with a touch of cinematic flair
+  VISUAL_STYLE:
+    REAL_LIFE: >-
+      Render the scene with cinematic realism, using natural lighting, shallow
+      depth of field, and high-fidelity textures to mimic live-action film.
+      Focus on lifelike character proportions, realistic environments, and
+      subtle emotional nuance, reminiscent of high-budget drama or action films.
+  CHARACTERS:
+    - NAME: Bryan Starbucks
+      ROLE: PROTAGONIST
+      GENDER: MALE
+      AGE_GROUP: ADULT
+      AGE: 40
+      PARENTHETICAL: Enthusiastic
+      CHARACTER_DIALOGUE: >-
+        Let's land down there on that street between the stores. We're now in
+        the city of Chelan, right next to Lake Chelan.
+      CHARACTER_ROTATION: 0
+      ACTION: Walking with enthusiasm
+      PHYSICAL_DESCRIPTION: >-
+        a man in his 40s, 5'8'' tall, with a charismatic presence. His face
+        features a well-groomed mustache and beard, framing a strong jawline. He
+        has medium-length, neatly styled brown hair with a slight wave, parted
+        slightly off-center. His eyes are a striking blue, and his skin tone is
+        fair with a healthy, natural glow. His voice is smooth, confident, warm,
+        with a subtle gravelly undertone.
+      VOICE_TONE: >-
+        Smooth, confident, and warm with a subtle gravelly undertone. Reflects
+        experience, charisma, and calm authority.
+      ORIENTATION:
+        SCREEN_POSITION: Middle
+        CHARACTER_ROTATION: '0'
+        BODY: Facing forward, body orientation at 0 degrees
+        HEAD: Looking forward, head orientation at 0 degrees
+        GAZE: Forward, gaze orientation at 0 degrees
+      CLOTHING:
+        DESCRIPTION: >-
+          Bryan is dressed in a smart-casual outfit that reflects his
+          charismatic and professional demeanor. He wears a tailored navy blazer
+          over a crisp white shirt, paired with dark denim jeans. His shoes are
+          polished brown leather loafers, adding a touch of sophistication. A
+          silver wristwatch and a pair of stylish sunglasses complete his look,
+          emphasizing his role as a modern, visionary leader.
+        UPPER_BODY:
+          - Tailored navy blazer
+          - Crisp white shirt
+        LOWER_BODY:
+          - Dark denim jeans
+        FOOTWEAR:
+          - Polished brown leather loafers
+      FACE:
+        SKIN: Fair with a healthy, natural glow
+        HAIR: >-
+          Medium-length, neatly styled brown hair with a slight wave, parted
+          slightly off-center
+  CAMERA_WORK:
+    INITIAL_PLACEMENT:
+      SHOT_TYPE: Medium Shot
+      ANGLE: Eye_Level
+      FRAMING: Character centered in the frame
+    MOVEMENT:
+      TYPE: Tracking
+      PACE: Smooth and steady
+      EFFECT: >-
+        Keeps the focus on Bryan as he walks, enhancing the sense of movement
+        and engagement with the environment.
+  DIALOGUE:
+    - BRYAN_STARBUCKS: >-
+        Let's land down there on that street between the stores. We're now in
+        the city of Chelan, right next to Lake Chelan.
+  ACTION:
+    DESCRIPTION: >-
+      Bryan Starbucks walks with enthusiasm down a vibrant street in Chelan,
+      surrounded by quaint shops and cafes.
+    MOVEMENT: Walking with a steady pace
+  SET_SETTINGS:
+    LOCATION: E Woodin Ave with Shops
+    BUILDING_TYPE: Shops and cafes
+    SURROUNDINGS:
+      - Quaint shops
+      - Cafes
+      - Vibrant colors
+    LIGHTING: Natural daylight
+    VEHICLES: None
+  BACKGROUND_NOISE: >-
+    The ambient sounds of a bustling street with distant chatter and the
+    occasional sound of a passing bicycle.
+  CAMERA_TRANSITION: Cut in and out of the shot, maintaining a seamless flow.
+  LIGHTING_ATMOSPHERE: >-
+    The scene is lit with natural daylight, casting soft shadows and
+    highlighting the vibrant colors of the surroundings. The lighting creates a
+    warm and inviting atmosphere, enhancing the cheerful and adventurous tone of
+    the scene.
+  SOUND:
+    AMBIENT: >-
+      The sound of a bustling street with distant chatter and occasional bicycle
+      bells.
+    FOLEY: Footsteps on pavement
+COMBINED_MEGA_PROMPT: "A medium shot of Bryan (Bryan Starbucks is a man in his 40s, 5'8'' tall, with a charismatic presence. His face features a well-groomed mustache and beard, framing a strong jawline. He has medium-length, neatly styled brown hair with a slight wave, parted slightly off-center. His eyes are a striking blue, and his skin tone is fair with a healthy, natural glow. His voice is smooth, confident, and warm, with a subtle gravelly undertone. He is dressed in a smart-casual outfit consisting of a tailored navy blue blazer over a crisp white shirt, paired with dark denim jeans and polished brown leather loafers, accessorized with a sleek silver watch and stylish sunglasses perched on his head.) walking with enthusiasm down E Woodin Ave in Chelan, a vibrant street lined with quaint shops and cafes. The camera tracks smoothly alongside Bryan at eye level, maintaining focus on his expressions and the lively street environment. Natural daylight creates a warm and inviting atmosphere, casting soft shadows and highlighting the vibrant colors of the surroundings.\r\n\r\nAudio Dialogue: \"Let's land down there on that street between the stores. We're now in the city of Chelan, right next to Lake Chelan.\"\r\n\r\nStyle: Cinematic realism, lifelike textures, shallow depth of field, high-fidelity detail, professional documentary look.\r\n\r\nCamera: Medium shot, eye-level, tracking movement, focus on Bryan's walking motion and expressions.\r\n\r\nLighting: Natural daylight, warm and inviting, soft shadows highlighting vibrant surroundings.\r\n\r\nMood: Enthusiastic, lively, vibrant."

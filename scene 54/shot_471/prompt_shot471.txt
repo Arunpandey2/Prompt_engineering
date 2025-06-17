@@ -1,0 +1,35 @@
+A close-up shot of Bryan, a man in his 40s standing 5'8", with a charismatic presence. His face features a well-groomed mustache and beard, framing a strong jawline. He has medium-length, neatly styled brown hair with a slight wave, parted slightly off-center. His eyes are a striking blue, and his skin tone is fair with a healthy, natural glow. Bryan stands confidently in a newspaper building, wearing a tailored dark navy suit with a crisp white dress shirt underneath. He wears a patterned tie in shades of blue and gray, paired with polished black leather shoes. He accessorizes with a silver watch and a sleek leather briefcase.
+
+Setting
+
+The scene takes place in a newspaper building interior, surrounded by desks with computers, stacks of newspapers, and office chairs. The environment is professional and organized, with bright, even office lighting creating a clear and focused atmosphere. The background is subtly blurred, keeping the focus on Bryan's confident presence.
+
+Camera
+
+The camera maintains a static close-up shot at eye level, positioned to capture Bryan at the far left of the frame. The composition emphasizes his facial expressions and professional demeanor, with a shallow depth of field that softly blurs the office environment.
+
+Lighting
+
+Bright, even office lighting bathes the scene, creating a professional and clear atmosphere. The lighting enhances Bryan's features while maintaining a neutral color grading that emphasizes realism and clarity. Minimal shadows add subtle dimension to the frame.
+
+Dialogue (7.84s)
+
+Bryan (smooth, confident voice with a subtle gravelly undertone):
+"Or, on rare occasions, you might pay a Blender expert or VFX professional to create one for you for a reasonable price."
+
+Audio
+• Primary: Clear dialogue (starts at 0s)
+• Ambient: Office ambiance with faint typing and phone ringing
+• Foley: Subtle sounds of paper rustling and footsteps
+
+Style
+
+Cinematic realism with high-fidelity textures and professional lighting. The scene emphasizes Bryan's role as an innovative leader while maintaining a documentary-style authenticity.
+
+Negative Prompt
+
+Text overlays, watermarks, blur, distortion, grain, unintended background figures, oversaturation, underexposure.
+
+Technical
+
+16:9 aspect ratio, 2s duration, Transformation Strength: 1 
