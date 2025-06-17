@@ -1,0 +1,29 @@
+A medium shot of Kevin (details: A 35-year-old Black man, 5'9", lean and muscular, sharp and professional with composed confidence, short neatly styled black hair, well-groomed goatee, focused dark brown eyes, smooth deep brown skin, polished and practical attire in earth tones), a Blender expert, standing confidently on E Woodin Ave with Bryan (details: A 40-year-old man, 5'8", charismatic and well-proportioned, commanding yet warm presence, strong jawline, well-groomed beard and mustache, medium slightly wavy brown hair, striking blue eyes, fair skin with a healthy glow, smart modern attire in warm neutrals and deep blues). He has a professional appearance with a casual yet put-together style, wearing modern tech-appropriate attire. His posture is relaxed but engaged, with a friendly expression that conveys expertise and approachability. The scene captures him in a natural stance, ready to engage in conversation.
+
+Setting
+The scene takes place on E Woodin Ave in Chelan, with the street stretching into the background. The environment is clean and well-maintained, with a mix of local businesses and natural elements visible in the background. The setting maintains a professional yet welcoming atmosphere, typical of a small town's main street.
+
+Camera
+The camera maintains a medium shot at eye level, positioned to capture Kevin from the waist up. The composition keeps Kevin slightly off-center to the right, allowing for natural headroom and space for potential movement. The shot maintains a balanced frame with appropriate depth of field to keep the background subtly blurred but recognizable.
+
+Lighting
+Natural daylight illuminates the scene, creating a bright and clear atmosphere. The lighting is even and flattering, with soft shadows that add dimension without being harsh. The natural light enhances the outdoor setting while maintaining professional quality.
+
+Style
+Cinematic realism with high-fidelity textures and natural lighting. The scene emphasizes Kevin's role as a Blender expert while maintaining a documentary-style authenticity. The overall aesthetic is clean and professional, suitable for a technical expert in a casual setting.
+
+Negative Prompt
+Text overlays, watermarks, blur, distortion, grain, unintended background figures, oversaturation, underexposure, unrealistic lighting, poor composition.
+
+Technical
+16:9 aspect ratio, 2s duration, Transformation Strength: 0.5
+
+Dialogue (6.27s)
+
+Bryan (smooth, confident, warm voice with a subtle gravelly undertone):
+"Most customers won't use Blender—we run it server-side, so they never need it on their computer."
+
+Audio
+• Primary: Clear dialogue (starts at 0s)
+• Ambient: Serene outdoor ambiance, faint city sounds, distant footsteps
+• Foley: Subtle rustle of clothing, soft footsteps on pavement 

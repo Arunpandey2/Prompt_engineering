@@ -1,0 +1,29 @@
+A medium shot of Bryan (details: A 40-year-old man, 5'8", charismatic and well-proportioned, commanding yet warm presence, strong jawline, well-groomed beard and mustache, medium slightly wavy brown hair, striking blue eyes, fair skin with a healthy glow, smart modern attire in warm neutrals and deep blues), Kevin (details: A 35-year-old Black man, 5'9", lean and muscular, sharp and professional with composed confidence, short neatly styled black hair, well-groomed goatee, focused dark brown eyes, smooth deep brown skin, polished and practical attire in earth tones), and Victor (details: A 35-year-old man, 5'10", average build, experienced and thoughtful with quiet intensity, oval face, clean-shaven or neatly trimmed facial hair, short professional dark brown hair, hazel focused eyes, medium skin, professional casual attire in subdued tones) forming a triangle formation on E Woodin Ave. Bryan stands at the left, Kevin at the right of center, and Victor at the far right. The camera angle shows Kevin's face and body, Bryan from the side, over Victor's shoulder, with Victor slightly off-screen. The composition captures the natural flow of conversation between the three professionals.
+
+Setting
+The scene takes place on E Woodin Ave in Chelan, with the street environment providing context. The setting maintains a professional atmosphere while incorporating the small-town charm of Chelan. The background elements are subtly blurred but maintain context, creating depth without distraction.
+
+Camera
+The camera maintains a medium shot at eye level, positioned to capture the three subjects in a triangle formation. The composition emphasizes the spatial relationship between the characters while maintaining clear visibility of their expressions and body language. The shot maintains a balanced frame with appropriate depth of field to keep the focus on the interaction while maintaining environmental context.
+
+Lighting
+Natural daylight provides even, flattering illumination across the scene. The lighting creates soft shadows that add dimension to the subjects' features while maintaining a professional quality. The natural light enhances the outdoor setting while ensuring clear visibility of facial expressions and details.
+
+Style
+Cinematic realism with high-fidelity textures and natural lighting. The scene emphasizes the professional interaction between the three experts while maintaining a documentary-style authenticity. The overall aesthetic is clean and professional, suitable for a technical discussion in a casual setting.
+
+Negative Prompt
+Text overlays, watermarks, blur, distortion, grain, unintended background figures, oversaturation, underexposure, unrealistic lighting, poor composition.
+
+Technical
+16:9 aspect ratio, 2s duration, Transformation Strength: 0.5
+
+Dialogue (6.53s)
+
+Bryan (smooth, confident, warm voice with a subtle gravelly undertone):
+"See down the street here this is called Exterior-on-Rails. You won't believe the power of our A.I.!"
+
+Audio
+• Primary: Clear dialogue (starts at 0s)
+• Ambient: Bustling downtown ambiance, distant traffic, footsteps, murmur of people
+• Foley: Footsteps on pavement, rustle of clothing 

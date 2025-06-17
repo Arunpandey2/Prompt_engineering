@@ -1,0 +1,149 @@
+TITLE: BRYAN ASKS KEVIN ABOUT LIVING IN CHELAN
+PUBLISHED: false
+ASPECT_RATIO: Aspect_9_16
+TRANSITION_IN: Cut
+TRANSITION_OUT: Cut
+TIME: day
+MIN_DURATION: 2
+NEGATIVE_PROMPT: >-
+  Exclude text overlays, watermarks, visual clutter, extraneous humans,
+  artificial effects, blur, low quality, distortion, oversaturation,
+  underexposure, grain, pixelation.
+SET_TYPE: Exterior
+TRANSFORMATION_STRENGTH: 1
+ADDITIONAL_DETAILS: {}
+SHOT_CAST:
+  - IS_PRIMARY: true
+    IS_SEATED: false
+    IS_VISIBLE: true
+    IS_OVER_THEIR_SHOULDER: false
+    CHARACTER_PLACEMENT: Far_Left
+    ROTATION: 0
+    AUDIO_START_DURATION: 0
+    AUDIO_URL: >-
+      production/4daaf112-773e-44af-b2d6-bb4096e6f119/storyboard-shots/b60f1a6d-9091-4972-91a5-e22f4fb07a1b/ad1a7017-47a1-4272-9f9f-55687005a814/audio_ad1a7017-47a1-4272-9f9f-55687005a814.mp3
+    AUDIO_DURATION: 3.7877551020408164
+    DIALOGUE: Kevin, did I hear that you live here in the town of Chelan?
+    ANIMATION_START_DURATION: 0
+    ANIMATION_DURATION: 0
+    CAST:
+      NAME: Bryan Starbucks
+      AGE: 40
+      OVERVIEW: Imagination is limitless when technology and creativity unite.
+      PROFESSION: Founder & CEO of DreamStage
+      ROLE: PROTAGONIST
+      APPEARANCE: >-
+        a man in his 40s, 5'8'' tall, with a charismatic presence. His face
+        features a well-groomed mustache and beard, framing a strong jawline. He
+        has medium-length, neatly styled brown hair with a slight wave, parted
+        slightly off-center. His eyes are a striking blue, and his skin tone is
+        fair with a healthy, natural glow. His voice is smooth, confident, warm,
+        with a subtle gravelly undertone.
+      VOICE_TONE: >-
+        Smooth, confident, and warm with a subtle gravelly undertone. Reflects
+        experience, charisma, and calm authority.
+      NOTES: "Mentor: A seasoned filmmaker who initially doubts Bryan's vision but becomes a key supporter.\r\nRival: A traditional filmmaker who challenges Bryan's approach, representing the old guard."
+SHOT_SET:
+  SET:
+    NAME: GOLDEN SET - Lake Chelan
+    DESCRIPTION: Lake Chelan with Path A, B and C.
+    LOCATION_TYPE: Exterior
+    SET_TYPE: ThreeDSet
+    SCOPE: GLOBAL
+CINEMATOGRAPHY:
+  RENDER_TYPE: DEFAULT
+  RENDER_ALL_OTHERS: GENERATIVE_AI_LIMITED
+  SHOT_TYPE: Medium_Close_Up_Shot
+  CAMERA_ANGLE: Eye_Level
+  CAMERA_TARGET_TO: ONE_CHARACTER_CENTERED
+  CAMERA_MOVEMENT: Fixed
+MEGA_PROMPT_PIECES:
+  SCENE_OVERVIEW:
+    OVERALL_DESCRIPTION: >-
+      Bryan Starbucks, a charismatic man in his 40s, is addressing someone named
+      Kevin in a park setting. The atmosphere is casual yet engaging, as Bryan
+      inquires about Kevin's residence in the town of Chelan.
+    TONE: Warm and inquisitive
+    STYLE: Realistic and conversational
+  VISUAL_STYLE:
+    REAL_LIFE: >-
+      Render the scene with cinematic realism, using natural lighting, shallow
+      depth of field, and high-fidelity textures to mimic live-action film.
+      Focus on lifelike character proportions, realistic environments, and
+      subtle emotional nuance, reminiscent of high-budget drama or action films.
+  CHARACTERS:
+    - NAME: Bryan Starbucks
+      ROLE: PROTAGONIST
+      GENDER: MALE
+      AGE_GROUP: ADULT
+      AGE: 40
+      CHARACTER_DIALOGUE: Kevin, did I hear that you live here in the town of Chelan?
+      CHARACTER_ROTATION: 0
+      ACTION: Bryan stands confidently on the far left, engaging in conversation.
+      PHYSICAL_DESCRIPTION: >-
+        a man in his 40s, 5'8'' tall, with a charismatic presence. His face
+        features a well-groomed mustache and beard, framing a strong jawline. He
+        has medium-length, neatly styled brown hair with a slight wave, parted
+        slightly off-center. His eyes are a striking blue, and his skin tone is
+        fair with a healthy, natural glow. His voice is smooth, confident, warm,
+        with a subtle gravelly undertone.
+      VOICE_TONE: >-
+        Smooth, confident, and warm with a subtle gravelly undertone. Reflects
+        experience, charisma, and calm authority.
+      ORIENTATION:
+        SCREEN_POSITION: Far_Left
+        CHARACTER_ROTATION: '0'
+        BODY: Facing forward, body oriented at 0 degrees
+        HEAD: Looking directly at Kevin, head oriented at 0 degrees
+        GAZE: Directly at Kevin, gaze oriented at 0 degrees
+      CLOTHING:
+        DESCRIPTION: >-
+          Bryan is dressed in a smart-casual outfit that reflects his
+          entrepreneurial spirit. He wears a tailored navy blazer over a crisp
+          white shirt, paired with dark denim jeans. His shoes are polished
+          brown leather loafers, and he accessorizes with a sleek silver watch
+          and a pair of stylish sunglasses perched on his head.
+        UPPER_BODY:
+          - Tailored navy blazer
+          - Crisp white shirt
+        LOWER_BODY:
+          - Dark denim jeans
+        FOOTWEAR:
+          - Polished brown leather loafers
+      FACE:
+        SKIN: Fair with a healthy, natural glow
+        HAIR: Medium-length, neatly styled brown hair with a slight wave
+  CAMERA_WORK:
+    INITIAL_PLACEMENT:
+      SHOT_TYPE: Medium Close Up Shot
+      ANGLE: Eye_Level
+      FRAMING: Bryan is centered on the far left of the frame
+    MOVEMENT:
+      TYPE: Static
+      EFFECT: Focuses on Bryan's expression and dialogue
+  SET_SETTINGS:
+    SET:
+      NAME: GOLDEN SET - Lake Chelan
+      DESCRIPTION: Lake Chelan with Path A, B and C.
+      LOCATION_TYPE: Exterior
+      SET_TYPE: ThreeDSet
+      SCOPE: GLOBAL
+  DIALOGUE:
+    - BRYAN_STARBUCKS: Kevin, did I hear that you live here in the town of Chelan?
+  ACTION:
+    DESCRIPTION: Bryan stands confidently on the far left, engaging in conversation.
+    MOVEMENT: Static, with a focus on dialogue delivery
+  BACKGROUND_NOISE: >-
+    The ambient sounds of a park, with distant chatter from nearby cafes and the
+    occasional rustle of leaves.
+  CAMERA_TRANSITION: Cut
+  LIGHTING_ATMOSPHERE: >-
+    The scene is lit with natural daylight, casting soft shadows and
+    highlighting Bryan's features. The lighting is even, with a slight warm tone
+    to enhance the inviting atmosphere. Color grading is subtle, maintaining a
+    realistic and natural look.
+  SOUND:
+    AMBIENT: >-
+      The gentle hum of park activity, with distant conversations and the sound
+      of leaves rustling in the breeze.
+COMBINED_MEGA_PROMPT: "A medium close-up shot of Bryan (Bryan Starbucks is a man in his 40s, 5'8'' tall, with a charismatic presence. His face features a well-groomed mustache and beard, framing a strong jawline. He has medium-length, neatly styled brown hair with a slight wave, parted slightly off-center. His eyes are a striking blue, and his skin tone is fair with a healthy, natural glow. His voice is smooth, confident, and warm, with a subtle gravelly undertone. He is dressed in a smart-casual outfit consisting of a tailored navy blazer over a crisp white shirt, paired with dark denim jeans and polished brown leather loafers, accessorized with a sleek silver watch and stylish sunglasses resting on his head.) standing on the far left of a park on E Woodin Ave, surrounded by quaint shops, cafes, and vibrant surroundings. The camera is positioned at eye level, maintaining a static frame to emphasize Bryan's friendly delivery and professional presence. Natural daylight creates a warm and engaging atmosphere, with soft shadows highlighting Bryan's features.\r\n\r\nAudio Dialogue: \"Kevin, did I hear that you live here in the town of Chelan?\"\r\n\r\nStyle: Cinematic realism, lifelike textures, shallow depth of field, high-fidelity detail, professional documentary look.\r\n\r\nCamera: Medium close-up shot, eye-level, static frame, focus on Bryan's friendly delivery.\r\n\r\nLighting: Natural daylight, warm and engaging, soft shadows highlighting features.\r\n\r\nMood: Professional, friendly, engaging."

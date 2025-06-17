@@ -1,0 +1,76 @@
+TITLE: CHELAN ALIENS WALK BY
+PUBLISHED: false
+ASPECT_RATIO: Aspect_9_16
+TRANSITION_IN: Cut
+TRANSITION_OUT: Cut
+TIME: day
+MIN_DURATION: 2
+NEGATIVE_PROMPT: >-
+  text overlays, watermarks, visual clutter, extraneous humans, artificial
+  effects, blur, low quality, distortion, oversaturation, underexposure, grain,
+  pixelation.
+SET_TYPE: Exterior
+TRANSFORMATION_STRENGTH: 1
+ADDITIONAL_DETAILS: {}
+SHOT_SET:
+  SET:
+    NAME: GOLDEN SET - Lake Chelan
+    DESCRIPTION: Lake Chelan with Path A, B and C.
+    LOCATION_TYPE: Exterior
+    SET_TYPE: ThreeDSet
+    SCOPE: GLOBAL
+CINEMATOGRAPHY:
+  RENDER_TYPE: GENERATIVE_V2V
+  RENDER_ALL_OTHERS: GENERATIVE_AI_ADV
+  SHOT_TYPE: Medium_Close_Up_Shot
+  CAMERA_ANGLE: Eye_Level
+  CAMERA_TARGET_TO: ONE_CHARACTER_CENTERED
+  CAMERA_MOVEMENT: Fixed
+MEGA_PROMPT_PIECES:
+  SCENE_OVERVIEW:
+    OVERALL_DESCRIPTION: >-
+      The scene captures a vibrant day in Chelan Town, focusing on a character
+      walking through E Woodin Ave, lined with quaint shops and cafes. The
+      atmosphere is lively and colorful, reflecting the charm of the
+      surroundings.
+    TONE: Cheerful and lively
+    STYLE: Realistic with a touch of cinematic drama
+  VISUAL_STYLE:
+    REAL_LIFE: >-
+      Render the scene with cinematic realism, using natural lighting, shallow
+      depth of field, and high-fidelity textures to mimic live-action film.
+      Focus on lifelike character proportions, realistic environments, and
+      subtle emotional nuance, reminiscent of high-budget drama or action films.
+  CAMERA_WORK:
+    INITIAL_PLACEMENT:
+      SHOT_TYPE: Medium Close Up Shot
+      ANGLE: Eye level
+      FRAMING: Centered on one character
+    MOVEMENT:
+      TYPE: Static
+      PACE: None
+      EFFECT: Focuses attention on the character and the vibrant street
+  SET_SETTINGS:
+    SET:
+      NAME: GOLDEN SET - Lake Chelan
+      DESCRIPTION: Lake Chelan with Path A, B and C.
+      LOCATION_TYPE: Exterior
+      SET_TYPE: ThreeDSet
+      SCOPE: GLOBAL
+  ACTION:
+    DESCRIPTION: A character walks through the bustling street of E Woodin Ave.
+    MOVEMENT: Steady pace along the sidewalk
+  BACKGROUND_NOISE: >-
+    The ambient sounds of a bustling street, with chatter from cafes and the
+    occasional sound of a passing vehicle.
+  CAMERA_TRANSITION: Cut
+  LIGHTING_ATMOSPHERE: >-
+    The scene is lit by natural daylight, casting soft shadows and highlighting
+    the vibrant colors of the street. The lighting enhances the cheerful and
+    lively tone of the scene, with a slight warm color grading to emphasize the
+    welcoming atmosphere.
+  SOUND:
+    AMBIENT: >-
+      The sound of people chatting, footsteps on the pavement, and the distant
+      hum of traffic.
+COMBINED_MEGA_PROMPT: "A medium close-up shot of a character standing in the vibrant park of Chelan Town, surrounded by quaint shops and cafes on E Woodin Ave. The camera is positioned at eye level, maintaining a static frame to emphasize the character's presence and the lively surroundings. Natural daylight creates a warm and vibrant atmosphere, casting soft shadows and highlighting the colorful environment.\r\n\r\nStyle: Cinematic realism, lifelike textures, shallow depth of field, high-fidelity detail, professional documentary look.\r\nCamera: Medium close-up shot, eye-level, static frame, character centered.\r\nLighting: Natural daylight, warm and vibrant, soft shadows highlighting colorful surroundings.\r\nMood: Lively, vibrant, cheerful."
